@@ -7,7 +7,7 @@ permalink: /
 ---
 
 # ⚠Under Contruction⚠ Welcome to S&C Associates' Knowledge Base
-
+ 
 Welcome to S&C Associates' knowledge base. This site includes information on getting started at S&C as well as articles on how to use ProjectWise and [Bentley OpenRoads Designer].
 
 ----
