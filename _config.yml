@@ -1,8 +1,13 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: S&C Knowledge Base
+description: S&C Associates' Knowledge Base Articles
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://sandcassociates.github.io/knowledge-base/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  S&C's GitHub Repo: https://github.com/sandcassociates/knowledge-base
+
+callouts:
+    note:
+        title: note
+        color: purple
