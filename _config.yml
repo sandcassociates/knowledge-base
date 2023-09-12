@@ -14,3 +14,6 @@ callouts:
     alert:
         title: alert
         color: yellow
+
+mermaid:
+  version: "9.1.6"

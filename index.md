@@ -10,6 +10,18 @@ permalink: /
  
 Welcome to S&C Associates' knowledge base. This site includes information on getting started at S&C as well as articles on how to use ProjectWise and [Bentley OpenRoads Designer].
 
+## WIP Sections:
+
+#### Project Setup
+#### Design
+#### Plan Sheets
+#### Quantities
+#### Tips & Tricks
+
+## Completed 
+
+#### Welcome
+
 ----
 
 [^1]: [This is what a source looks like.](www.example.com).
