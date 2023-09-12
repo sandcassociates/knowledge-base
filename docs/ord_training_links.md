@@ -90,7 +90,8 @@ to review civil data stored in the design file.
 
 **[Drainage and Utilities CONNECT Edition Help]** 
 
- **Bentley Support Number:** 1-800-236-8539
+ **Bentley Support Number:** (Call
+before 3 pm for best results.) 1-800-236-8539
 
 [Bentley MicroStation Batch Process into video]: https://youtu.be/ekp9JydpGIk 
 [Stormwater Modeling Fundamentals Playlist]: https://www.youtube.com/playlist?list=PLLCOESNdmKSIKcmCwfFd_v_DU3loFL18j

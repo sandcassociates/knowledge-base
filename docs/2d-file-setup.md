@@ -2,7 +2,7 @@
 layout: default
 title: 2D File Setup
 parent: Project Setup
-nav_order: 1
+nav_order: 2
 ---
 
 # 2D File Setup in OpenRoads Designer
@@ -75,8 +75,7 @@ design files. For creating a 3D file for 3D drainage modeling, see the
 
 8.  Open the renamed file.
 
-9.  Attach any pertinent reference files. See [Tips & Tricks] for information on referencing. Make sure all
-    references are attached using **Coincident World**.
+9.  Attach any pertinent reference files. See [Tips & Tricks] for information on referencing. Make sure all references are attached using **Coincident World**.
 
     -   Typical references for all files:
 
@@ -161,3 +160,4 @@ Once you are done with a file, move it to **Design** > **Working** > **S&C** > *
 [Pre-Design Resources]: /docs/pre-design.md
 [3D File Setup]: /docs/3d-file-setup.md
 [Tips & Tricks]: /docs/tips-and-tricks.md
+[New Project Setup]: /docs/new-project-setup.md

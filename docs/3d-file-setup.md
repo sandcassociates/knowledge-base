@@ -2,7 +2,7 @@
 layout: default
 title: 3D File Setup
 parent: Project Setup
-nav_order: 2
+nav_order: 3
 ---
 
 # 3D File Setup in OpenRoads Designer
