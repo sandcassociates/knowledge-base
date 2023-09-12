@@ -11,3 +11,6 @@ callouts:
     note:
         title: note
         color: purple
+    alert:
+        title: alert
+        color: yellow
