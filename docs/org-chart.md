@@ -9,8 +9,8 @@ nav_order: 3
 
 ```mermaid
    graph LR;
-  A[`Sherri Newman
-    Principal Engineer`];
+  A["Sherri Newman
+    Principal Engineer"];
     A -->B["`**Betsy Prescot**
     Civil Designer`"];
     A -->C["`**Heather Johns**
