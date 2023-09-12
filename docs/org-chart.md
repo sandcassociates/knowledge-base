@@ -24,11 +24,3 @@ nav_order: 3
     A -->G["`**Quincy**
     Security Officer`"];
 ```
-
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-```
