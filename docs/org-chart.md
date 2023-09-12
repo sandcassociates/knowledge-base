@@ -8,7 +8,7 @@ nav_order: 3
 # Organization Chart
 
 ```mermaid
-   graph TD;
+   graph LR;
   A["`**Sherri Newman**
     Principal Engineer`"];
     A -->B["`**Betsy Prescot**
