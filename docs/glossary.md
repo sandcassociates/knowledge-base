@@ -28,6 +28,7 @@ Working files are files that you are working on and aren't ready for
 others to reference or view.
 
 **Seed file**
+The 2d seed file is usually located in the **Project Development** > **Project Resources** > **OpenRoads Designer** > **Project Seeds** directory. It'll be named something like **xxxxx_Seed2d.dgn**
 
 **ZBase File**
 Also called a container file
