@@ -23,28 +23,25 @@ commonly use at S&C.
 
 To add a reference file:
 
-1.  Click the dropdown arrow on **Primary** > **Attach Tools** icon.
+1.  Click the dropdown arrow on **Primary** > **Attach Tools** icon: 
 
-    ![](/assets/images/attach-tools.png)
+![](/assets/images/attach-tools.png)
 
 2.  Click **References**
 
 3.  In the dialog box, go to **Tools** (in the menu) > **Attach**
 
-    -   If the file you're looking for isn't there, try changing the
-        file selection from ".dgn" to "all documents".
+    -   If the file you're looking for isn't there, try changing the file selection from ".dgn" to "all documents".
 
 4.  Make sure all references are attached using **Coincident World**
 
-    -   Coincident World keeps the coordinate system set in the seed
-        file.
+    -   Coincident World keeps the coordinate system set in the seed file.
 
 5.  Typical references for all files:
 
     -   Topo
     -   Existing Surface
-    -   Proposed Surface (often not available in early stages of a
-        project)
+    -   Proposed Surface (often not available in early stages of a project)
     -   Aerial Imagery
     -   Design Files
     -   Alignment
@@ -62,12 +59,9 @@ and dialogs easier.
 
 ## Levels
 
-A "level" defines different layers or sections within a design, such as
-road surfaces, subgrades, utilities, and structures. 
+A "level" defines different layers or sections within a design, such as road surfaces, subgrades, utilities, and structures. 
 
-Toggle the Level Display on or off with the Level Display icon:
-
-    ![](/assets/images/level-display.png)
+Toggle the Level Display on or off with the Level Display icon: ![](/assets/images/level-display.png)
 
 Or use the ribbon search bar to search for "Level Display."
 
@@ -87,20 +81,17 @@ Or use the ribbon search bar to search for "Level Display."
 
 1.  Right click anywhere in the Child Level box, then click **Level Manager**:
 
-![](/assets/images/level-manager.png)
+    ![](/assets/images/level-manager.png)
+    
+2.  Click **Levels** > **New** or the New Level icon: 
 
-2.  Click **Levels** > **New** or the New Level icon:
-
-    ![](/assets/images/new-level.png)
+![](/assets/images/new-level.png)
 
 ### How to view and change the level of an element
 
-1.  To view the level of an element, click the element, then hover over
-    it to see information about the element.
+1.  To view the level of an element, click the element, then hover over it to see information about the element.
 
-2.  To change the level of an element, go to **Properties** >
-    **General**, click **Level**, then select the new level from the
-    dropdown:
+2.  To change the level of an element, go to **Properties** > **General**, click **Level**, then select the new level from the dropdown: 
 
 ![](/assets/images/level-properties.png)
 
@@ -119,10 +110,7 @@ basin is a shed or crown.
 
 1.  Go to **Drawing** > **Placement** > **Place Active Cell** ![](/assets/images/place-active-cell.png)
 
-2.  In the Place Active Cell dialog box, click **...** next to the
-    Active Cell text box:
-
-![](/assets/images/active-cell-name.png)
+2.  In the Place Active Cell dialog box, click **...** next to the Active Cell text box: ![](/assets/images/active-cell-name.png)
 
 3.  Click **Display All Cells**
 
