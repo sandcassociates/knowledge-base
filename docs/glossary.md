@@ -1,65 +1,96 @@
 ---
 layout: default
 title: Glossary
-parent: Tips & Tricks
-nav_order: 1
+nav_order: 8
+has_children: false
+permalink: /docs/glossary
 ---
 
-**Definitions**
 
-**Utility Files**
+# Glossary
 
-Utility files are used to map existing utilities in the project area and
-guide the design of the project. Utility files are created from data
-provided by utility companies and survey data from the field. It is
-necessary to incorporate both to document the utilities.
+The following is a glossary of common terms and acronyms found throughout S&C's knowledge base documents.
 
-**SWPP Files**
+### 2D Drainage Files
 
+{: .important}
 Needs definition
 
-**2D Drainage Files**
+### Alignment Line
+A line used to define the horizontal layout or path of a road or highway. It represents the centerline of a road and has stationing numbers on it. You can turn on the alignments for the roads in your project by displaying the alignment level.
 
-Needs definition
+### BMP
+Best management practices. BMPs are a set of specific practices and measures designed to prevent or control the pollution of storm water runoff from construction sites or industrial facilities. The goal of BMPs in a SWPPP is to minimize the impact of storm water runoff on water quality by reducing the release of pollutants into storm water.
 
-**Working File**
+Common BMPs we use at S&C Associates include:
 
-Working files are files that you are working on and aren't ready for
-others to reference or view.
+- Sediment barriers like fiber wattle rolls
+- Erosion control measures like straw, mulch, or seeding
+- Sediment basins to settle out sediment from storm water runoff
+- Inlet protection to capture sediment before it drains into sewers
 
-**Seed file**
-The 2d seed file is usually located in the **Project Development** > **Project Resources** > **OpenRoads Designer** > **Project Seeds** directory. It'll be named something like **xxxxx_Seed2d.dgn**
+### Border File
+S&C has its own border that is attached to all plan sheets. It includes things like the file name, the designer and engineer who worked on the project, and the principal engineer's stamp. The border file is discipline specific, so a single project might have multiple border files (e.g., SWPPP, Utility, profile, and drainage borders). Every plan sheet will need the border file attached as a reference. 
 
-**ZBase File**
-Also called a container file
+### Container File
+The container file that all references you want displayed on your sheets should be referenced into. This is where you will set the layers you want displayed. **No design should be done in the container file.** The container file is sometimes also called the Zbase file.
 
-**Alignment line**
-Runs through the middle of a road, has stationing numbers on it
+### DBE
+A Disadvantaged Business Enterprise. DBEs are a category of small businesses that meet specific criteria related to their ownership and disadvantaged status. The DBE program is designed to promote diversity and inclusion in government-funded transportation and infrastructure projects, particularly those receiving federal funding in the United States.
 
-**Definitions**
+S&C Associates is a certified Department of Transportation Woman-owned DBE.
 
-Below are definitions of the sheet creation process components.
+### Design file
+Where CAD work is done. A design file can be either 2D or 3D, depending on what you're working on. Design files are discipline specific, so if designing utilities, only utilities go in the utilities design file, but if designing SWPPP, all SWPPP design would go in the SWPPP design file.
 
-**Border file** --- S&C and discipline specific of project-specific
-border file, often has multiple border files (SWPP, Utility, profile,
-drainage, etc.) (does this mean one border file has multiple border
-files within it?)
+### Impervious drainage basin
+An impervious basin is made of surfaces that water cannot flow through or be absorbed into, such as pavement or concrete.
 
-**Design file** --- Where CAD work is done. Either 2D or 3D. Discipline
-specific, so if designing utilities, only utilities go in this file.
+### ITD
+Idaho Transportation Department. THe government agency responsible for managing and maintaining the transportation infrastructure in the state of Idaho. ITD is one of S&C's primary clients.
 
-**Sheet cuts** --- The limits of a sheet, often defined by the project
-civil prime. We usually try to have the same limits as the sheets
-defined by the project civil prime.
+### Path Element
+A component or object used to design a linear or curved trajectory that is essential for creating various design elements such as road alignments.
 
-**Sheet file** --- The file created after running the drawing production
-tool. (What's the drawing production tool?) Only annotations should be
-done in the Sheet files. **Sheet files should only contain the Border
-file and ZBase file. The Border file shouldn't be live referenced.**
+### Pervious drainage basin
+A pervious basin is made of surfaces that water can flow into or be absorbed by, such as dirt or sand.
 
-**Path Element** --- Project Alignment (What does this mean?)
+### Plan view
+A plan view is the graphical representation of the road design from a top-down perspective.
 
-**ZBase file** --- The container file that all references you want
-displayed on your sheets should be referenced into. This is where you
-will set the layers you want displayed. **No design should be done in
-the ZBase file.**
+### Prime
+Refers to the prime contractor on a project. They are the primary contractor responsible for overseeing and coordinating all aspects of the project, including planning, design, construction, and project management.
+
+### ROW line
+Right-of-Way line. The ROW line represents the legally designated boundary or corridor of land that the government has acquired or reserved for the construction, maintenance, and operation of transportation or utility infrastructure. This land is typically set aside for public use and is where the actual road or railway track, along with associated infrastructure, is built.
+
+### Seed file
+A seed file is a pre-defined template or starting point used to create new designs or drawing files. Seed files serve as the foundation for new design files, providing a consistent layout, standards, ands settings.
+
+The 2D seed file is usually located in the **Project Development** > **Project Resources** > **OpenRoads Designer** > **Project Seeds** ProjectWise directory. It'll be named something like `xxxxx_Seed2d.dgn`
+
+### Sheet cuts
+The limits of a sheet, often defined by the project civil prime. We usually try to have the same limits as the sheets defined by the project civil prime. That way, when we print our sheets, the sheets display the same view as the rest of the prime's sheets. 
+
+### Sheet file
+The file created after running the drawing production tool. Only annotations should be done in the sheet files (i.e., bubble call outs, stationing quantities). Sheet files should only contain references to the border file and container file. The border file shouldn't be live referenced into the sheet file.
+
+### Sub
+Refers to a subcontractor on a project. A subcontractor is a specialized individual or company hired by the main or general contractor to perform specific tasks, services, or portions of a construction project. Subcontractors are typically experts in their respective fields and are responsible for carrying out particular aspects of the construction work. 
+
+S&C Associates most often works as a subcontractor specializing in SWPPP, drainage design, utility coordination, and roadway design.
+
+### SWPPP 
+Storm Water Pollution Protection Plan. A comprehensive document designed to mitigate and prevent storm water pollution on construction sites and industrial facilities. SWPPPs are a crucial component of environmental management, particularly in regions with regulations aimed at protecting water quality from the harmful effects of polluted storm water runoff. 
+
+### SWPPP Design Files
+Storm water Pollution Prevention Plan (SWPPP) design file serves as a blueprint for preventing or minimizing the discharge of pollutants, sediment, and contaminants from construction activities into nearby water bodies or storm water drainage systems. The SWPPP design files we create at S&C will usually include best management practices such as seeding, wattles, and inlet protection placement.
+
+### Utility Files
+Utility files are used to map existing utilities in the project area and guide the design of the project. Utility files are created from data provided by utility companies and survey data from the field. It is necessary to incorporate both to document the utilities.
+
+### Working File
+Working files are files that you are working on and aren't ready for others to reference or view. Working files are kept in your own working folder in ProjectWise and end in `_working.dgn`
+
+### ZBase File
+See [Container File](#container-file)

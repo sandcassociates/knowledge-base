@@ -7,16 +7,4 @@ permalink: /docs/tips-and-tricks
 ---
 
 # Tips & Tricks
-(Some info about what the reader can expect from the tips & tricks section.)
-
-TO BE ADDED TO T&T DOC ONCE UP:
--   To set the level as active, double-click the level to turn
-            it from blue to green. Alternatively, right click the level,
-            then click **Set Active**.
-
-        -   View the level of an element by clicking the element, and
-            then hovering over it.
-
-        -   Change the level of an element by going to Properties,
-            clicking **Level**, then selecting the new level from the
-            dropdown menu.
+This section includes tips, tricks, and general troubleshooting for the software we most commonly use at S&C: OpenRoads Designer, BlueBeam, and Excel. This curated collection will empower you with the skills to optimize your workflow, boost productivity, and conquer challenges in these essential software tools. 

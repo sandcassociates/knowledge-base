@@ -123,13 +123,13 @@ Working files are files that are not yet ready to be available for others to ref
 
 6.  Paste the file into your working Design folder.
 
-7.  Rename the pasted file to the appropriate convention with `\_Working.dgn`at the end.
+7.  Rename the pasted file to the appropriate convention with `_Working.dgn`at the end.
 
     -   Typical naming convention for SWPP: `20442_SWPP_S01_Working.dgn`
 
     -   Typical naming Convention for Utility: `20442_UTIL_S01_Working.dgn`
 
-    -   Typical naming convention for a 3D Drainage file: `20442_DRAIN_S02.dgn`
+    -   Typical naming convention for a 3D Drainage file: `20442_DRAIN_S02_Working.dgn`
 
         -   The letter delineator, here "S", is set by the prime,
             typically in a CAD Tech memo. This is to show which firm has

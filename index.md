@@ -6,21 +6,9 @@ description: "S&C KB Home"
 permalink: / 
 ---
 
-# ⚠Under Contruction⚠ Welcome to S&C Associates' Knowledge Base
+# Welcome to S&C Associates' Knowledge Base
  
-Welcome to S&C Associates' knowledge base. This site includes information on getting started at S&C as well as articles on how to use ProjectWise and [Bentley OpenRoads Designer].
-
-## WIP Sections:
-
-#### Project Setup
-#### Design
-#### Plan Sheets
-#### Quantities
-#### Tips & Tricks
-
-## Completed 
-
-#### Welcome
+Welcome to S&C Associates' knowledge base. This site includes information on getting started at S&C as well as articles on how to use ProjectWise, [Bentley OpenRoads Designer], and Excel.
 
 ----
 

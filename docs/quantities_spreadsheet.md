@@ -21,9 +21,8 @@ Follow these instructions to set up the Quantities spreadsheet in Excel. The Qua
 
 ## Copy the Quantities Template
 
-Rather than start from scratch, it's easier to copy the existing
-Quantities Template from the S&C Knowledge Library. That way, you don't
-have to worry about reproducing the formulas in the new spreadsheet. The template is located in the Templates folder.
+Rather than start from scratch, it's easier to copy the existing Quantities Template from the S&C Knowledge Library. That way, you don't
+have to worry about reproducing the formulas in the new spreadsheet. The template is located in the `Templates` folder. Alternatively, the template also exists in the `PROJECT FILE (copy for each project)`, so if you've already copied over a new project file, you should be all set.
 
 Once you've copied the template:
 
@@ -32,38 +31,29 @@ Once you've copied the template:
 
 2.  Paste the copied spreadsheet in the Estimates folder
 
-3.  The file should be called `XXXX_Quantities and Estimates
-    SWPP_MMDDYYYY`
+3.  The file should be called `XXXX_Quantities and Estimates_SWPPP_MMDDYYYY`
 
-    -   Replace the `XXXX` with the project name and MMDDYYYY with the
-        date
+    -   Replace the `XXXX` with the project name and `MMDDYYYY` with the date
 
 ## Prepare the Quantities Template
 
 Before you begin, you'll want to set the template up for your project.
 
-1.  Update the stationing for each sheet:
+1.  Update the stationing for each sheet in the Estimate Summary tab:
 
     ![](../assets/images/stationing.png)
 
-    -   You can confirm the station numbers in the sheet file's border
-        in ORD.
+    -   You can confirm the station numbers in the sheet file's border in ORD.
 
-    -   Except for the first station (cell E7), the start station will
-        automatically update based on the end station from the previous
-        column. Overwrite it if necessary (for example, for BEGIN or END
-        stations).
+    -   Except for the first station (cell E7), the start station will automatically update based on the end station from the previous column. Overwrite it if necessary (for example, for BEGIN or END stations).
 
-    -   To prevent the NAME values from incrementing up (e.g., SH75,
-        SH76, SH77), hold the CTRL key while you drag.
+    -   To prevent the NAME values from incrementing up (e.g., SH75, SH76, SH77), hold the **CTRL** key while you drag.
 
-2.  The **Design Quantities** stations should automatically update based
-    on the **Estimate Summary** values.
+2.  The **Design Quantities** stations should automatically update based on the **Estimate Summary** values.
 
 3.  Update the NAME and KEY NO. for the project in the **Cost Estimate Summary** sheet.
 
-4.  Add any additional bid items not on the template to both the
-    **Design Quantities** and **Estimate Summary** sheets.
+4.  Add any additional bid items not on the template to both the **Design Quantities** and **Estimate Summary** sheets.
 
     -   Make sure the **Estimate Summary** Total column includes a SUM()
         function for the new bid item row.
@@ -72,28 +62,20 @@ Before you begin, you'll want to set the template up for your project.
 
     -   Feet (FT), Cubic Yards (CY), Acres (ACRE), etc.
 
-    -   Check the ITD Pay_Items_Working_Document (Dropbox\\Engineering
-        Reference Docs\\ITD\\ITD Pay Item
-        List\\Pay_Items_Working_Document) to confirm units, check with
-        Sherri for help calculating them.
+    -   Check the ITD Pay_Items_Working_Document (Dropbox\\Engineering Reference Docs\\ITD\\ITD Pay Item List\\Pay_Items_Working_Document) to confirm units, check with Sherri for help calculating them.
 
 6.  Make sure that **File** > **Options** > **Advanced** > **Display Options for this Worksheet: "Estimate Summary"** > **Show a zero in cells that have zero value** is unchecked.
 
     -   With this setting off, empty cells will remain empty instead of
         displaying a 0.
 
-    ![](../assets/images/no-zeroes.png)
+    <img src="../assets/images/no-zeroes.png" width=500>
 
-**Populate the Quantities Template**
+## Populate the Quantities Template
 
-Once you've completed the design phase of your project (entered seeding,
-wattle, inlet protection, etc. into the design file), you can start
-entering the quantities into the Design Quantities sheet.
+Once you've completed the design phase of your project (entered seeding, wattle, inlet protection, etc., into the design file), you can start entering the quantities into the Design Quantities sheet.
 
-Enter the bid item quantities in the columns that correspond to the Plan
-Sheet stations. All your bid items should fit within the stations for
-the corresponding sheet; bid items shouldn't overflow into other sheets.
-This helps us get correct quantity measurements for each sheet.
+Enter the bid item quantities in the columns that correspond to the Plan Sheet stations. All your bid items should fit within the stations for the corresponding sheet; bid items shouldn't overflow into other sheets. This helps us get correct quantity measurements for each sheet.
 
 **For non-seeding items:**
 
@@ -103,8 +85,8 @@ This helps us get correct quantity measurements for each sheet.
     -   Some items don't have length measurements, such as inlet
         protection.
 
-2.  Enter the measurement in the lefthand column of a station section in
-    the Design quantities sheet in the corresponding Stationing.
+2.  Enter the measurement in the left-hand column of the corresponding station section in
+    the Design Quantities sheet.
 
 3.  Use the Analyze Point tool in ORD to check an item's stationing and
     offset measurements.
@@ -118,10 +100,8 @@ This helps us get correct quantity measurements for each sheet.
 
     ![](../assets/images/station-format.png)
 
--   If the offset is a negative number in ORD, the offset will be LT
-    (left of the road's centerline) or, if the offset is a positive
-    number in ORD, the offset will be RT (right of the road's
-    centerline).
+    - If the offset is a negative number in ORD, the offset will be LT (left of the road's centerline)
+    - If the offset is a positive number in ORD, the offset will be RT (right of the road's centerline)
 
 **For seeding shapes:**
 
