@@ -7,4 +7,19 @@ permalink: /docs/project-setup
 ---
 
 # Project Setup
-(Add some text here that includes the overview of project flow from start to finish, the different review periods, etc.)
+Getting a new project ready to work on usually means setting up the files you'll be working on over the course of the project. 
+
+When you start a new project, you'll need to:
+
+- [ ] Copy and paste the PROJECT FILE in Dropbox, then rename it to your project
+
+- [ ] Create a new design file, either [2D] or [3D] 
+
+- [ ] Create new [plan sheets]
+
+- [ ] Get the [Print Set] (pset) ready
+
+[2D]: /docs/2d-file-setup
+[3D]: /docs/3d-file-setup
+[plan sheets]: /docs/sheet-setup
+[Print Set]: /docs/sheet-printing
