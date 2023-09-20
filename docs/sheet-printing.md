@@ -18,17 +18,14 @@ nav_order: 3
 
 You'll need to create a print set (also known as a pset) to "print" your plan sheets to PDF.
 
-These steps will guide you through creating a Print Set (.pset) of
-sheets in ORD.
+These steps will guide you through creating a Print Set (.pset) of sheets in ORD.
 
 ## Copy & Rename the 2D Seed file
-1.  Find the project 2D seed file, right click, then click **Copy**.
-    Paste it into the S&C sheet folder for the project.
+1.  Find the project 2D seed file, right click, then click **Copy**. Paste it into the S&C sheet folder for the project.
 
     -   The 2d seed file is usually located in the **Project Development** > **Project Resources** > **OpenRoads Designer** > **Project Seeds** directory. It'll be named something like `xxxxx_Seed2d.dgn`
 
-2.  Rename the seed file using this naming convention: 
-    `12345_Discipline_Date.PSET`
+2.  Rename the seed file using this naming convention: `12345_Discipline_Date.PSET`
 
     -   E.g., `20445_Util_03102022.pset`
 
@@ -87,9 +84,7 @@ This step is important, go slow and check that you made the right selections.
 
 5. Print
 
-    -   When the pset is done and asks if you want to save, select
-        **Yes**, then **No Wizard**. Update the pset file name and make
-        sure it's saving to your current S&C Plan Sheet folder location.
+    -   When the pset is done and asks if you want to save, select **Yes**, then **No Wizard**. Update the pset file name and make sure it's saving to your current S&C Plan Sheet folder location.
 
 **Automatic Size and Color Design Script recognizes the following logical names:**
 
@@ -104,6 +99,5 @@ This step is important, go slow and check that you made the right selections.
 
 Adjust these in **References** > **Logical**
 
--   If Logical is not an option, right click in the top bar where it
-    says file name. Check **Logical**.
+-   If Logical is not an option, right click in the top bar where it says file name. Check **Logical**.
 

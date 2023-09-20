@@ -16,8 +16,7 @@ nav_order: 2
 
 ---
 
-This document covers the basics of the ORD tools and features we most
-commonly use at S&C.
+This document covers the basics of the ORD tools and features we most commonly use at S&C.
 
 ## Attaching reference files
 
@@ -48,8 +47,7 @@ To add a reference file:
 
 ## Using the ribbon search bar
 
-The ORD ribbon search bar is a powerful tool that makes finding tools
-and dialogs easier.
+The ORD ribbon search bar is a powerful tool that makes finding tools and dialogs easier.
 
 -   You can quickly access the search bar by pressing F4.
 -   Search for terms in the text box or use the dropdown arrow to view
@@ -103,8 +101,7 @@ Or use the ribbon search bar to search for "Level Display."
 
 ## Working with arrows on basin delineations
 
-Use arrows to demarcate water flow directions and identify whether a
-basin is a shed or crown.
+Use arrows to demarcate water flow directions and identify whether a basin is a shed or crown.
 
 ### Placing a new arrow
 
@@ -122,8 +119,7 @@ basin is a shed or crown.
 
 ### Moving arrows
 
-Arrows should be placed perpendicular to the contour lines. To move an
-arrow: 
+Arrows should be placed perpendicular to the contour lines. To move an arrow: 
 
 1. Select the arrow 
 
@@ -155,16 +151,11 @@ Use Find and Replace to replace text in a file with something else.
 
 5.  Click **Replace All**
 
-    -   Note that this will replace all the instances of the text in the
-        file. If you only want to replace the text in a certain element
-        or portion of the file, be sure to highlight the area you want
-        to replace text in (multi-select by holding the left mouse
-        button down and dragging from the lower right hand corner).
+    -   Note that this will replace all the instances of the text in the file. If you only want to replace the text in a certain element or portion of the file, be sure to highlight the area you want to replace text in (multi-select by holding the left mouse button down and dragging from the lower right hand corner).
 
 ## Fixing Broken Associations
 
-If the arrows on your seeding/ wattle bubbles are appearing as dashed
-lines, you may need to uncheck the Highlight Broken Associations option:
+If the arrows on your seeding/ wattle bubbles are appearing as dashed lines, you may need to uncheck the Highlight Broken Associations option:
 
 1.  Navigate File > Settings > Operation
 
