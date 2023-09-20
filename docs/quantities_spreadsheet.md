@@ -26,8 +26,7 @@ have to worry about reproducing the formulas in the new spreadsheet. The templat
 
 Once you've copied the template:
 
-1.  In Dropbox, go to **Project Development** > **Design** >
-    **Estimates**
+1.  In Dropbox, go to **Project Development** > **Design** > **Estimates**
 
 2.  Paste the copied spreadsheet in the Estimates folder
 
@@ -55,8 +54,7 @@ Before you begin, you'll want to set the template up for your project.
 
 4.  Add any additional bid items not on the template to both the **Design Quantities** and **Estimate Summary** sheets.
 
-    -   Make sure the **Estimate Summary** Total column includes a SUM()
-        function for the new bid item row.
+    -   Make sure the **Estimate Summary** Total column includes a SUM() function for the new bid item row.
 
 5.  Verify the units for each bid items.
 
@@ -66,8 +64,7 @@ Before you begin, you'll want to set the template up for your project.
 
 6.  Make sure that **File** > **Options** > **Advanced** > **Display Options for this Worksheet: "Estimate Summary"** > **Show a zero in cells that have zero value** is unchecked.
 
-    -   With this setting off, empty cells will remain empty instead of
-        displaying a 0.
+    -   With this setting off, empty cells will remain empty instead of displaying a 0.
 
     <img src="../assets/images/no-zeroes.png" width=500>
 
@@ -79,22 +76,17 @@ Enter the bid item quantities in the columns that correspond to the Plan Sheet s
 
 **For non-seeding items:**
 
-1.  Select the item with the Element Selection tool in ORD to see the
-    item's length in the Properties dialog.
+1.  Select the item with the Element Selection tool in ORD to see the item's length in the Properties dialog.
 
-    -   Some items don't have length measurements, such as inlet
-        protection.
+    -   Some items don't have length measurements, such as inlet protection.
 
-2.  Enter the measurement in the left-hand column of the corresponding station section in
-    the Design Quantities sheet.
+2.  Enter the measurement in the left-hand column of the corresponding station section in the Design Quantities sheet.
 
-3.  Use the Analyze Point tool in ORD to check an item's stationing and
-    offset measurements.
+3.  Use the Analyze Point tool in ORD to check an item's stationing and offset measurements.
 
     -   Some items, like inlet protection, only have one station.
 
-4.  Record each station and offset measurement and enter them into the
-    Design Quantities sheet.
+4.  Record each station and offset measurement and enter them into the Design Quantities sheet.
 
     -   The correct format for stations and offsets looks like:
 
@@ -105,20 +97,15 @@ Enter the bid item quantities in the columns that correspond to the Plan Sheet s
 
 **For seeding shapes:**
 
-1.  Select the seed shape with the Element Selection tool in ORD to see
-    the shape's area in the Properties dialog.
+1.  Select the seed shape with the Element Selection tool in ORD to see the shape's area in the Properties dialog.
 
-2.  Enter the area measurement under a SHAPE cell at the bottom of the
-    column.
+2.  Enter the area measurement under a SHAPE cell at the bottom of the column.
 
     -   The ACRE and CY fields should populate automatically throughout
         the Station column.
 
-3.  Use the Analyze Point tool in ORD to check an item's stationing and
-    offset measurements.
+3.  Use the Analyze Point tool in ORD to check an item's stationing and offset measurements.
 
     -   Follow the same station and offset format as above.
 
-    -   You'll only need to enter the station and offset measurements
-        once in the Topsoil (6") section; the measurements should
-        auto-populate throughout the rest of the column sections.
+    -   You'll only need to enter the station and offset measurements once in the Topsoil (6") section; the measurements should auto-populate throughout the rest of the column sections.

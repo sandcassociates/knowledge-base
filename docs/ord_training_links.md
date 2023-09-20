@@ -17,8 +17,7 @@ nav_order: 2
 
 ## Bentley LEARNserver
 
-You can create a learning path to save the trainings you are interested
-in, so you don't have to search for them.
+You can create a learning path to save the trainings you are interested in, so you don't have to search for them.
 
 1. Go to [Bentley LEARNserver]
 
@@ -47,8 +46,7 @@ in, so you don't have to search for them.
 
 ## Youtube
 
-Bentley has a number of YouTube tutorial videos. The following videos
-give a good overview of the tools S&C commonly uses.
+Bentley has a number of YouTube tutorial videos. The following videos give a good overview of the tools S&C commonly uses.
 
 **[Bentley MicroStation Batch Process into video]**
 
@@ -56,31 +54,23 @@ This video gives an overview of how Batch Processes work in ORD.
 
 **[Stormwater Modeling Fundamentals Playlist]**
 
-This playlist gives a good overview of the basics of the tools available
-in StormCAD:
+This playlist gives a good overview of the basics of the tools available in StormCAD:
 
 **[StormCAD CONNECT Edition Playlist]**
 
-This is the Bentley StormCAD Connect Edition playlist. A lot of the
-videos are helpful, particularly the [Automated catchment delineation
-tips and tricks] and [Automated catchment
-delineation demonstration] videos.
+This is the Bentley StormCAD Connect Edition playlist. A lot of the videos are helpful, particularly the [Automated catchment delineation tips and tricks] and [Automated catchment delineation demonstration] videos.
 
 **[Introduction to OpenRoads Designer Concepts and Capabilities]**
 
-This playlist covers getting started in OpenRoads Designer. When first
-getting started, modules 1 and 3 are the most helpful.
-
+This playlist covers getting started in OpenRoads Designer. When first getting started, modules 1 and 3 are the most helpful.
 
 **[01 Getting Started with the Interface]**
 
-Learn how to start the ORD software, select your workspace, and review
-the interface.
+Learn how to start the ORD software, select your workspace, and review the interface.
 
 **[03 Element Properties and Explorer]**
 
-Learn how to review the properties of elements and how to use Explorer
-to review civil data stored in the design file.
+Learn how to review the properties of elements and how to use Explorer to review civil data stored in the design file.
 
 ## Bentley OpenRoads Command Handbook
 
@@ -90,8 +80,7 @@ to review civil data stored in the design file.
 
 **[Drainage and Utilities CONNECT Edition Help]** 
 
- **Bentley Support Number:** (Call
-before 3 pm for best results.) 1-800-236-8539
+ **Bentley Support Number:** (Call before 3 pm for best results) 1-800-236-8539
 
 [Bentley MicroStation Batch Process into video]: https://youtu.be/ekp9JydpGIk 
 [Stormwater Modeling Fundamentals Playlist]: https://www.youtube.com/playlist?list=PLLCOESNdmKSIKcmCwfFd_v_DU3loFL18j
