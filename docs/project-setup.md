@@ -11,13 +11,13 @@ Getting a new project ready to work on usually means setting up the files you'll
 
 When you start a new project, you'll need to:
 
-- [ ] Copy and paste the PROJECT FILE in Dropbox, then rename it to your project
+- [X] Copy and paste the PROJECT FILE in Dropbox, then rename it to your project
 
-- [ ] Create a new design file, either [2D] or [3D] 
+- [X] Create a new design file, either [2D] or [3D] 
 
-- [ ] Create new [plan sheets]
+- [X] Create new [plan sheets]
 
-- [ ] Get the [Print Set] (pset) ready
+- [X] Get the [Print Set] (pset) ready
 
 [2D]: /docs/2d-file-setup
 [3D]: /docs/3d-file-setup
