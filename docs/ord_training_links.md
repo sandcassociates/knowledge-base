@@ -16,6 +16,7 @@ nav_order: 2
 ---
 
 ## Bentley LEARNserver
+***
 
 You can create a learning path to save the trainings you are interested in, so you don't have to search for them.
 
@@ -45,6 +46,7 @@ You can create a learning path to save the trainings you are interested in, so y
     -   *10 - Drainage Hydraulics*
 
 ## Youtube
+***
 
 Bentley has a number of YouTube tutorial videos. The following videos give a good overview of the tools S&C commonly uses.
 
@@ -73,6 +75,7 @@ Learn how to start the ORD software, select your workspace, and review the inter
 Learn how to review the properties of elements and how to use Explorer to review civil data stored in the design file.
 
 ## Bentley OpenRoads Command Handbook
+***
 
 **[Subsurface Utilities CONNECT Edition Help]** (Super helpful reference!)
 
@@ -80,7 +83,14 @@ Learn how to review the properties of elements and how to use Explorer to review
 
 **[Drainage and Utilities CONNECT Edition Help]** 
 
- **Bentley Support Number:** (Call before 3 pm for best results) 1-800-236-8539
+**[Microstation Help]**
+
+**[ProjectWise Explorer Help]**
+
+- Check out the Key-in Index (bottom left) for a list of key-in commands. Most should also work in ORD.
+
+ **Bentley Support Number:** 1-800-236-8539
+(Call before 3 pm for best results)
 
 [Bentley MicroStation Batch Process into video]: https://youtu.be/ekp9JydpGIk 
 [Stormwater Modeling Fundamentals Playlist]: https://www.youtube.com/playlist?list=PLLCOESNdmKSIKcmCwfFd_v_DU3loFL18j
@@ -94,3 +104,5 @@ Learn how to review the properties of elements and how to use Explorer to review
 [Automated catchment delineation tips and tricks]: https://youtu.be/4JbzGigA00w
 [Automated catchment delineation demonstration]: https://youtu.be/wbQz4KXDSZ8
 [Bentley LEARNserver]: https://learn.bentley.com/app/Public
+[Microstation Help]: https://docs.bentley.com/LiveContent/web/MicroStation%20Help-v24/en/GUID-288FAFD8-1107-4FCB-9843-8BECC9099A06.html
+[ProjectWise Explorer Help]: https://docs.bentley.com/LiveContent/web/ProjectWise%20Explorer%20Help-v11/en/GUID-0597D3F6-23A0-4DEA-9565-E9448CBA6F4F.html

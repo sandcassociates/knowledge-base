@@ -8,8 +8,10 @@ permalink: /docs/glossary
 
 
 # Glossary
+***
 
 The following is a glossary of common terms and acronyms found throughout S&C's knowledge base documents.
+{: .fs-6 .fw-300 }
 
 ### 2D drainage files
 

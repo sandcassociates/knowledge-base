@@ -19,6 +19,7 @@ nav_order: 1
 This document includes resources on SWPPP and drainage design and will help you prepare for a new project. Reviewing and understanding these resources is step one in the design process. 
 
 ## SWPPP design resources
+***
 
 Use these resources to prepare a SWPPP (Storm Water Pollution Prevention Plan) project. Proper planning will protect natural resources during the construction process. Familiarize yourself with storm water solution requirements, practices, etc., prior to developing a project plan.
 
@@ -40,6 +41,7 @@ SWPPP files are used to map necessary [best management practices] (BMPs) for the
 It is necessary to complete both the SWPPP design sheets and the narrative. However, the final narrative portions will be completed by the contractor prior to construction. S&C fills out as much of the narrative as possible; Heather is the DRI. Samples SWPPP narratives can be found in older S&C projects.
 
 ## Drainage design resources
+***
 
 Use the following resources to prepare a project's drainage plan.
 
@@ -52,6 +54,7 @@ YouTube and Bentley both offer several trainings on how to use the software and 
 You can also call Bentley systems at 1- 800-236-8539 for help. Call before 3 pm for best results.
 
 ## Creating Base Files
+***
 
 The drainage design begins by creating the base [design file]. This file is used only for design work. Sheet creation or other deliverables are not created from the design files. Further explanation about file types and their uses can be found on the [New Project Setup] page.
 

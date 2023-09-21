@@ -22,6 +22,7 @@ future success.
 3D files should only be used for **modeling**. For S&C, this will primarily for drainage modeling. We don't model utility or SWPPP files.
 
 ## Creating 3D drainage design files
+***
 
 1.  Navigate to the project in ITD ProjectWise.
 
@@ -63,6 +64,7 @@ future success.
 11. Close the file.
 
 ## Creating working drainage design files
+***
 
 Working files are not yet ready to be available for others to reference
 or view.
@@ -77,6 +79,7 @@ or view.
     -   Add a folder with your first initial and last name:
 
     ![](../assets/images/working-directory.png)
+    {: .ml-5 }
 
 3.  Find the project-specific [seed] file, usually located in the Design folder or in the Project Resources folder.
 
@@ -108,6 +111,7 @@ or view.
 10. When you are ready to move the file to the Design folder for others to use and reference, remove `_Working` from the end. Right click on the file, select **Cut**, and **Paste** it into the Design folder.
 
 ## Archiving files
+***
 
 Once you are done with a file, move it to **Design** > **Working** > **S&C** > **Archive**. This will help with data management. Never delete files, always archive them. If an Archive folder doesn't exist yet, create one.
 
