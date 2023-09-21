@@ -48,7 +48,7 @@ This document will guide you through how to set up plan sheets for a project.
 
     -   Keep the match lines, centerline call outs, and road names.
 
-3.  Change the sheet title in the border to SWPP PLAN SHEET.
+3.  Change the sheet title in the border to **SWPP PLAN SHEET**.
 
     -   Alternatively, if there's an overlap between the old name and the new, delete the old name.
 
@@ -68,4 +68,4 @@ This document will guide you through how to set up plan sheets for a project.
 12. Click **Check In** to save your changes.
 
 {: .alert }
-Be sure to only check in the SWPP file you're working on. Sometimes, you may find that the reference files have been checked out. Be sure to Free 
+Be sure to only check in the SWPP file you're working on. Sometimes, you may find that the reference files have been checked out. Be sure to Free any files that don't belong to S&C. 

@@ -56,7 +56,7 @@ This step is important, go slow and check that you made the right selections.
 
 1. Select **Manually Specified Options**, not **"..."**
 
-![](../assets/images/manually-specify.png)
+    ![](../assets/images/manually-specify.png)
 
 2.  For Utility Sheets, use the Utility Pen Table. See the below settings for the recommended selection.
 
@@ -72,9 +72,9 @@ This step is important, go slow and check that you made the right selections.
 
         -   Design Script= Automatic Size and Color
 
-    ![](../assets/images/pset-defs-main.png)
+    <img src="../assets/images/pset-defs-main.png" width=500>
 
-    ![](../assets/images/pset-defs-advanced.png)
+    <img src="../assets/images/pset-defs-advanced.png" width=500>
         
 3. Set the Logical name in the container file. See the screen shot below for the Logical names that the automatic size and color can read. Note that each logical name needs to be unique. So if you need multiple files to print in Black and White, Type BW-1, BW-2 Etc. Logical names can be manipulate in the references dialog in the container file.
 
@@ -84,9 +84,9 @@ This step is important, go slow and check that you made the right selections.
 
 5. Print
 
-    -   When the pset is done and asks if you want to save, select **Yes**, then **No Wizard**. Update the pset file name and make sure it's saving to your current S&C Plan Sheet folder location.
+    -   When the pset is done and asks if you want to save, select **Yes**, then **No Wizard**. Update the pset file name and make sure it's saving to your current S&C Plan Sheet folder location in Dropbox.
 
-**Automatic Size and Color Design Script recognizes the following logical names:**
+## Automatic Size and Color design script logical names
 
 |Code | Color Name |
 | --- | --- |

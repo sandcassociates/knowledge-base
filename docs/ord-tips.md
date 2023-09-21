@@ -24,7 +24,7 @@ To add a reference file:
 
 1.  Click the dropdown arrow on **Primary** > **Attach Tools** icon: 
 
-![](/assets/images/attach-tools.png)
+    ![](/assets/images/attach-tools.png)
 
 2.  Click **References**
 
@@ -83,7 +83,7 @@ Or use the ribbon search bar to search for "Level Display."
     
 2.  Click **Levels** > **New** or the New Level icon: 
 
-![](/assets/images/new-level.png)
+    ![](/assets/images/new-level.png)
 
 ### How to view and change the level of an element
 
@@ -105,11 +105,13 @@ Use arrows to demarcate water flow directions and identify whether a basin is a 
 
 ### Placing a new arrow
 
-1.  Go to **Drawing** > **Placement** > **Place Active Cell** ![](/assets/images/place-active-cell.png)
+1.  Go to **Drawing** > **Placement** > **Place Active Cell**: ![](/assets/images/place-active-cell.png)
 
-2.  In the Place Active Cell dialog box, click **...** next to the Active Cell text box: ![](/assets/images/active-cell-name.png)
+2.  In the Place Active Cell dialog box, click **...** next to the Active Cell text box: 
+    
+    ![](/assets/images/active-cell-name.png)
 
-3.  Click **Display All Cells**
+3.  Click **Display All Cells**.
 
     ![](/assets/images/display-all-cells.png)
 
@@ -121,60 +123,77 @@ Use arrows to demarcate water flow directions and identify whether a basin is a 
 
 Arrows should be placed perpendicular to the contour lines. To move an arrow: 
 
-1. Select the arrow 
+1. Select the arrow .
 
-2. In the ribbon (or use Search), click **Move** or **Copy** 
+2. In the ribbon (or use Search), click **Move** or **Copy**.
 
-3. Place the arrow on a contour line
+3. Place the arrow on a contour line.
 
-4. In the ribbon (or use Search), select **Rotate**
+4. In the ribbon (or use Search), select **Rotate**.
 
-5. In the Rotate properties pane, set the **Method** to 3 points
+5. In the Rotate properties pane, set the **Method** to 3 points.
 
-6. Click the center of the arrow you want to rotate, then click somewhere outside the arrow
+6. Click the center of the arrow you want to rotate, then click somewhere outside the arrow.
 
-7. Then, use your mouse to rotate the arrow so it's 90° perpendicular to the contour line
+7. Then, use your mouse to rotate the arrow so it's 90° perpendicular to the contour line.
 
-## Find and Replace Text
+## Find and replace text
 
 Use Find and Replace to replace text in a file with something else.
 
 1.  Navigate to the ribbon search bar and search for "replace."
 
-2.  Select **Find/ Replace Text**
+2.  Select **Find/ Replace Text**.
 
-3.  Enter the term you want to replace in the Find text bar
+3.  Enter the term you want to replace in the Find text bar.
 
 4.  Enter the term you want to replace it with in the Replace text bar.
 
     ![](/assets/images/find-replace.png)
 
-5.  Click **Replace All**
+5.  Click **Replace All**.
 
     -   Note that this will replace all the instances of the text in the file. If you only want to replace the text in a certain element or portion of the file, be sure to highlight the area you want to replace text in (multi-select by holding the left mouse button down and dragging from the lower right hand corner).
 
-## Fixing Broken Associations
+## Fixing broken associations
 
 If the arrows on your seeding/ wattle bubbles are appearing as dashed lines, you may need to uncheck the Highlight Broken Associations option:
 
-1.  Navigate File > Settings > Operation
+1.  Navigate to **File** > **Settings** > **Operation**.
 
-2.  Uncheck **Highlight Broken Associations**
+2.  Uncheck **Highlight Broken Associations**.
 
 ## Finding URN address in ProjectWise
 
-1.  In ProjectWise, highlight the file you want the URN for
+1.  In ProjectWise, highlight the file you want the URN for.
 
-2.  In the Address bar, right click the file name
+2.  In the Address bar, right click the file name.
 
-3.  Select **Copy URN**
+3.  Select **Copy URN**.
 
-## Troubleshooting Axis Lock
+## Troubleshooting axis lock
 
 If elements seem like they're stuck on an x-y axis when you're moving them, you might have to turn off Axis Lock for the file:
 
-1.  Navigate to File > Settings > File > Design File Settings
+1.  Navigate to **File** > **Settings** > **File** > **Design File Settings**.
 
-2.  Click **Axis**
+2.  Click **Axis**.
 
-3.  Uncheck **Axis Lock**
+3.  Uncheck **Axis Lock**.
+
+## Troubleshooting broken paths in Parametrix files
+
+1. Right click on the file(s) that have broken links.
+
+2. Click **Set**.
+
+3. Scan references and link sets.
+
+4. Click **Next** until you reach this dialog:
+
+    ![](/assets/images/broken-parametrix.png)
+
+5. Enter where the computer should look for the files.
+    - You may have to add multiple folders (design, location, hydraulics, sheets, etc.).
+
+6. Let it run the fix. It can take 15 minutes or so if you are fixing multiple files.
