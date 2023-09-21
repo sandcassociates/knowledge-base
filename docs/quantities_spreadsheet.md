@@ -20,6 +20,7 @@ nav_order: 1
 Follow these instructions to set up the Quantities spreadsheet in Excel. The Quantities spreadsheet is used to tabulate the quantities of each bid item needed for a project. Each column in the spreadsheet represents the stationing from a given sheet. The bid items in each column represent the quantity of those items in each plan sheet.
 
 ## Copy the Quantities Template
+***
 
 Rather than start from scratch, it's easier to copy the existing Quantities Template from the S&C Knowledge Library. That way, you don't
 have to worry about reproducing the formulas in the new spreadsheet. The template is located in the `Templates` folder. Alternatively, the template also exists in the `PROJECT FILE (copy for each project)`, so if you've already copied over a new project file, you should be all set.
@@ -35,12 +36,14 @@ Once you've copied the template:
     -   Replace the `XXXX` with the project name and `MMDDYYYY` with the date
 
 ## Prepare the Quantities Template
+***
 
 Before you begin, you'll want to set the template up for your project.
 
 1.  Update the stationing for each sheet in the Estimate Summary tab:
 
     ![](../assets/images/stationing.png)
+    {: .ml-2 }
 
     -   You can confirm the station numbers in the sheet file's border in ORD.
 
@@ -66,9 +69,10 @@ Before you begin, you'll want to set the template up for your project.
 
     -   With this setting off, empty cells will remain empty instead of displaying a 0.
 
-    <img src="../assets/images/no-zeroes.png" width=500>
+    <img src="../assets/images/no-zeroes.png" width=500 style="margin-left: 1.5rem;">
 
 ## Populate the Quantities Template
+***
 
 Once you've completed the design phase of your project (entered seeding, wattle, inlet protection, etc., into the design file), you can start entering the quantities into the Design Quantities sheet.
 
@@ -91,6 +95,7 @@ Enter the bid item quantities in the columns that correspond to the Plan Sheet s
     -   The correct format for stations and offsets looks like:
 
         ![](../assets/images/station-format.png)
+        {: .ml-5 }
 
     - If the offset is a negative number in ORD, the offset will be LT (left of the road's centerline)
     - If the offset is a positive number in ORD, the offset will be RT (right of the road's centerline)

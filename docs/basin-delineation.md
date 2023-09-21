@@ -21,6 +21,7 @@ This page outlines how to create urban storm water basin delineations in ORD. Ba
 For our purposes, a basin is an area where water collects and flows towards a central point or lower elevation. Basin delineation is the process of marking basin boundaries within a project's scope. The purpose is to determine where and how much water is flowing to a location in order to set inlets, size [swales], and begin the drainage design.
 
 ## Proposed Basin Delineation
+***
 
 1.  Open the 2D Design file.
 
@@ -33,12 +34,14 @@ For our purposes, a basin is an area where water collects and flows towards a ce
     -   Contour lines are usually in the proposed terrain file, but can sometimes be in the corridor files.
 
     ![](../assets/images/crown-shed.png)
+    {: .ml-5 }
 
 5.  Using the proposed surface (proposed terrain + proposed alignment = proposed surface), draw proposed drainage arrows throughout the project. See the [Tips & Tricks](/docs/ord-tips#placing-a-new-arrow) for how to draw an arrow.
 
     -   Water flows perpendicular to the contour lines. In the illustration below, the contour lines are the red and yellow lines.
 
     ![](../assets/images/arrow-placement.png)
+    {: .ml-5 }
 
     - Proposed arrows should go on the `HYDR_BASIN_Flowpath-Proposed` level as straight arrows.
 
@@ -49,18 +52,21 @@ For our purposes, a basin is an area where water collects and flows towards a ce
 6.  Click on the [alignment line] and hover over it.
 
     ![](../assets/images/profile-model.png)
+    {: .ml-2 }
 
 7.  Select the Open Profile Model icon
 
     - Open the profile model in another view port, either 5 or 6, on the bottom of the screen:
 
     ![](../assets/images/viewport.png)
+    {: .ml-5 }
 
 8.  Identify high points and low points along the alignment.
 
     -   Write down the station number (x-axis on the bottom) at the high points and the low points somewhere else.
 
     ![](../assets/images/alignment.png)
+    {: .ml-5 }
 
 9.  Return to the Plan view by clicking the close button, then set your active level to `HYDR_BASIN_Flowpath-Proposed`.
 
@@ -77,6 +83,7 @@ For our purposes, a basin is an area where water collects and flows towards a ce
     -   Notice that SH4 is a shed section based on the arrows. Sh5 and SH6 are crown sections. So three basins will have been delineated.
 
     ![](../assets/images/drawing-example)
+    {: .ml-5 }
 
 12. Identify the [pervious] drainage areas and create complex shapes
 
@@ -97,6 +104,7 @@ For our purposes, a basin is an area where water collects and flows towards a ce
     -   Use a naming convention like `SH4_IP=100sq ft` or `SH4_P=100sq ft`. (SH4 = the basin name, IP/P = impervious/ pervious, then the measured area for the shape).
 
 ## Existing Drainage Basin Delineation
+***
 
 1.  Follow all the steps above, but use the existing terrain file level, rather than the proposed surface file level.
 

@@ -21,6 +21,7 @@ Once you have your workstation, you'll need to download the required software. F
 For software licenses that require purchasing, ask your supervisor for the corporate credit card information.
 
 ## Company Email
+***
 Your email account is set up with no action on your part necessary. You can access your email via the Outlook icon in the Windows taskbar. 
 - Open Outlook
 - Email: xxxxx, password: xxxxx
@@ -30,25 +31,31 @@ Your email account is set up with no action on your part necessary. You can acce
 - Navigate to **Password**, then enter your old and new passwords.
 
 ## Bluebeam
+***
 - Go to [store.bluebeam.com]
 - Select **Core** ($300)
   - You'll need a new account, be sure to use your S&C email address
    
 ## Dopbox
+***
 - To download the Dropbox desktop app, [click here]
   - Once you've downloaded and set up your Dropbox account, contact your supervisor to be given access to the necessary folders for your work assignments
 -  Select **Dropbox Plus – 2,000 GB storage space** ($9.99/ month, billed annually) as your plan
 
 ## Zoom (free tier)
+***
 - Go to [Zoom Downloads]
 
 ## HP Printer Driver
+***
 - Go to [HP Downloads]
 
 ## Connection Client from Bentley 
+***
 - Go to [Bentley Software]
 
 ## OpenRoads Designer
+***
 OpenRoads Desginer is billed quarterly based on the number of licenses used. You won't need to pay but confirm with your supervisor that you've been granted access. 
 1. Open ConnectionClient
 2. Click **CONNECT Center**
@@ -57,6 +64,7 @@ OpenRoads Desginer is billed quarterly based on the number of licenses used. You
     - Contact your supervisor if you get the following message: "You do not have access to Software Downloads Application."
 
 ## ProjectWise Explorer Client Download
+***
 {: .note }
 This will require special permissions from ITD and S&C. Like OpenRoads Designer, you won’t need to pay, but you’ll need to confirm with your supervisor that you’ve been granted access.
 
@@ -75,6 +83,7 @@ If you're unable to login with the provided password, you may need to input your
 3. Select your country as United States > Skip License Checkout > Finish
 
 ## Activating ITD and HDR's ProjectWise Datasource Gateways
+***
 You'll need both ITD and HDR login credentials to access their respective ProjectWise files. Contact your supervisor to request access.
 
 Then, follow their instructions for logging in:
@@ -83,6 +92,7 @@ Then, follow their instructions for logging in:
 - [HDR's ProjectWise Datasource]
 
 ## Changing your ITD Password
+***
 
 1. Open ProjectWise Explorer
 2. Go to **Tools**
