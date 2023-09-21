@@ -90,7 +90,7 @@ Enter the bid item quantities in the columns that correspond to the Plan Sheet s
 
     -   The correct format for stations and offsets looks like:
 
-    ![](../assets/images/station-format.png)
+        ![](../assets/images/station-format.png)
 
     - If the offset is a negative number in ORD, the offset will be LT (left of the road's centerline)
     - If the offset is a positive number in ORD, the offset will be RT (right of the road's centerline)

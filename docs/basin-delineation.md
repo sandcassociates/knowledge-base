@@ -44,9 +44,9 @@ For our purposes, a basin is an area where water collects and flows towards a ce
 
     - Existing arrows should go on the `HYDR_BASIN_Flowpath-Existing` level as wavy arrows.
 
-    ![](../assets/images/arrow-examples.png)
+    <img src="../assets/images/arrow-examples.png" width=300>
 
-6.  Click on the alignment line and hover over it.
+6.  Click on the [alignment line] and hover over it.
 
     ![](../assets/images/profile-model.png)
 
@@ -78,13 +78,13 @@ For our purposes, a basin is an area where water collects and flows towards a ce
 
     ![](../assets/images/drawing-example)
 
-12. Identify the [pervious] drainage areas and create Complex Shapes
-
-    -   Only draw shapes up to the ROW (right of way) line unless instructed otherwise. Attach the ROW reference file to make sure you are staying within the ROW.
-
-    -   Make sure to use the Complex Shape tool to make the basins a shape, rather than a bunch of lines. This will let you to get the accurate area measurement of the shape.
+12. Identify the [pervious] drainage areas and create complex shapes
 
     -   The Complex Shapes tool is located at **Drawing** > **Groups** > **Complex Shapes**
+
+    -   Only draw shapes up to the [ROW (right-of-way) line] unless instructed otherwise. Attach the ROW reference file to make sure you are staying within the ROW.
+
+    -   Make sure to use the Complex Shape tool to make the basins a shape, rather than a bunch of lines. This will let you to get the accurate area measurement of the shape.
 
 13. Create a new, separate level, called something like `ANNO_Pervious_Areas` or `ANNO_Impervious_Areas`.
 
@@ -106,3 +106,5 @@ For our purposes, a basin is an area where water collects and flows towards a ce
 [swales]: /docs/glossary#swale
 [pervious]: /docs/glossary#pervious-drainage-basin
 [impervious]: /docs/glossary#impervious-drainage-basin
+[alignment line]: /docs/glossary#alignment-line
+[ROW (right-of-way) line]: /docs/glossary#row-line

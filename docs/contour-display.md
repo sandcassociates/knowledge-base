@@ -34,11 +34,11 @@ This page explains how to display [contours] in terrain files which are typicall
 
 4.  From the Override Template drop-down menu, select **Modeling** > **Terrain Display** > **Design Contours**.
 
-![](../assets/images/design-contours.png)
+    ![](../assets/images/design-contours.png)
 
 5.  Select the same drop-down again and click **Manage Templates...**
 
-![](../assets/images/manage-templates.png)
+    ![](../assets/images/manage-templates.png)
 
 6.  Navigate to **Modeling** > **Terrain Display** > **Design Contours**.
 
@@ -62,7 +62,7 @@ This page explains how to display [contours] in terrain files which are typicall
 
 **Text display issues**
 
-If there are issues with the way your text displays (contour interval text), identify which style is being used and update it in Text Styles.The easiest way to access Text Styles is to use the Search bar at the top right of your screen.
+If there are issues with the way your text displays (elevation numbers), identify which style is being used and update it in Text Styles.The easiest way to access Text Styles is to use the Search bar at the top right of your screen.
 
 [contours]: /docs/glossary#contours
 [design]: /docs/glossary#design-file

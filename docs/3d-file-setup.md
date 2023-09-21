@@ -50,16 +50,15 @@ future success.
 9.  Open the renamed file
 
 10.  Attach any pertinent reference files. See [Tips & Tricks] for information on referencing. Make sure all references are attached using **Coincident World**.
+- Typical references for all files:
+    -   Topo
+    -   Existing Surface
+    -   Proposed Surface (often not available in early stages of a project)
+    -   Aerial Imagery
+    -   Design Files
+    -   Alignment
 
-    -   Typical references for all files:
-        -   Topo
-        -   Existing Surface
-        -   Proposed Surface (often not available in early stages of a project)
-        -   Aerial Imagery
-        -   Design Files
-        -   Alignment
-
-    -   Click **Fit View** in the View menu bar.
+10.   Click **Fit View** in the View menu bar.
 
 11. Close the file.
 
