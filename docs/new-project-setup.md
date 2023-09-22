@@ -146,8 +146,8 @@ versions of them, and then detach all the other references. Then, you'll want to
 
 Follow the steps in [Pset Creation].
 
-[Pset Creation]: /docs/pset-creation
-[plan sheets]: /docs/glossary#sheet-file
-[container file]: /docs/glossary#container-file
-[border file]:/docs/glossary#border-file
-[prime]: /docs/glossary#prime
+[Pset Creation]: /knowledge-base/docs/pset-creation
+[plan sheets]: /knowledge-base/docs/glossary#sheet-file
+[container file]: /knowledge-base/docs/glossary#container-file
+[border file]:/knowledge-base/docs/glossary#border-file
+[prime]: /knowledge-base/docs/glossary#prime

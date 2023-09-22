@@ -20,5 +20,7 @@ To prepare plan sheets, you'll need to:
 - [X] Add bubble call outs and quantity annotations
 - [X] Print the plan sheets to PDF via the pset.
 
-[plan sheet files]: /docs/sheet-setup
-[Create the pset]: /docs/sheet-printing
+
+[plan sheet files]: /knowledge-base/docs/sheet-setup
+[create the pset]: /knowledge-base/docs/sheet-printing
+
