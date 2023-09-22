@@ -21,5 +21,5 @@ If you're new to S&C, [welcome]! This site includes information on getting start
 
 [Bentley OpenRoads Designer]: https://www.bentley.com/software/openroads-designer/
 [S&C Associates]: https://www.sandcassociates.com/
-[welcome]: /docs/welcome
+[welcome]: /knowledge-base/docs/welcome
 
