@@ -19,12 +19,14 @@ nav_order: 2
 This document covers the basics of the ORD tools and features we most commonly use at S&C.
 
 ## Attaching reference files
+***
 
 To add a reference file:
 
 1.  Click the dropdown arrow on **Primary** > **Attach Tools** icon: 
 
     ![](/assets/images/attach-tools.png)
+    {: .ml-2 }
 
 2.  Click **References**
 
@@ -46,6 +48,7 @@ To add a reference file:
     -   Alignment
 
 ## Using the ribbon search bar
+***
 
 The ORD ribbon search bar is a powerful tool that makes finding tools and dialogs easier.
 
@@ -56,6 +59,7 @@ The ORD ribbon search bar is a powerful tool that makes finding tools and dialog
     item in the ribbon.
 
 ## Levels
+***
 
 A "level" defines different layers or sections within a design, such as road surfaces, subgrades, utilities, and structures. 
 
@@ -72,6 +76,7 @@ Or use the ribbon search bar to search for "Level Display."
 3.  Check **Display**:
 
     ![](/assets/images/display.png)
+    {: .ml-2 }
 
     - Displayed levels will appear black in the Level Display pane while levels that aren't displayed will be grey.
 
@@ -80,10 +85,12 @@ Or use the ribbon search bar to search for "Level Display."
 1.  Right click anywhere in the Child Level box, then click **Level Manager**:
 
     ![](/assets/images/level-manager.png)
+    {: .ml-2 }
     
 2.  Click **Levels** > **New** or the New Level icon: 
 
     ![](/assets/images/new-level.png)
+    {: .ml-2 }
 
 ### How to view and change the level of an element
 
@@ -91,7 +98,8 @@ Or use the ribbon search bar to search for "Level Display."
 
 2.  To change the level of an element, go to **Properties** > **General**, click **Level**, then select the new level from the dropdown: 
 
-![](/assets/images/level-properties.png)
+    ![](/assets/images/level-properties.png)
+    {: .ml-2 }
 
 ### How to set a level as active
 
@@ -100,6 +108,7 @@ Or use the ribbon search bar to search for "Level Display."
 2. Alternatively, right click the level, then click **Set Active**.
 
 ## Working with arrows on basin delineations
+***
 
 Use arrows to demarcate water flow directions and identify whether a basin is a shed or crown.
 
@@ -110,10 +119,12 @@ Use arrows to demarcate water flow directions and identify whether a basin is a 
 2.  In the Place Active Cell dialog box, click **...** next to the Active Cell text box: 
     
     ![](/assets/images/active-cell-name.png)
+     {: .ml-2 }
 
 3.  Click **Display All Cells**.
 
     ![](/assets/images/display-all-cells.png)
+     {: .ml-2 }
 
 4.  Find the cell library with the straight and wavy arrow cell.
 
@@ -138,8 +149,9 @@ Arrows should be placed perpendicular to the contour lines. To move an arrow:
 7. Then, use your mouse to rotate the arrow so it's 90° perpendicular to the contour line.
 
 ## Find and replace text
+***
 
-Use Find and Replace to replace text in a file with something else.
+Use Find and Replace to replace text in a file with something else. Learn more in Bentley's [Help documentation]. 
 
 1.  Navigate to the ribbon search bar and search for "replace."
 
@@ -150,12 +162,14 @@ Use Find and Replace to replace text in a file with something else.
 4.  Enter the term you want to replace it with in the Replace text bar.
 
     ![](/assets/images/find-replace.png)
+     {: .ml-2 }
 
 5.  Click **Replace All**.
 
     -   Note that this will replace all the instances of the text in the file. If you only want to replace the text in a certain element or portion of the file, be sure to highlight the area you want to replace text in (multi-select by holding the left mouse button down and dragging from the lower right hand corner).
 
 ## Fixing broken associations
+***
 
 If the arrows on your seeding/ wattle bubbles are appearing as dashed lines, you may need to uncheck the Highlight Broken Associations option:
 
@@ -172,6 +186,7 @@ If the arrows on your seeding/ wattle bubbles are appearing as dashed lines, you
 3.  Select **Copy URN**.
 
 ## Troubleshooting axis lock
+***
 
 If elements seem like they're stuck on an x-y axis when you're moving them, you might have to turn off Axis Lock for the file:
 
@@ -182,6 +197,7 @@ If elements seem like they're stuck on an x-y axis when you're moving them, you 
 3.  Uncheck **Axis Lock**.
 
 ## Troubleshooting broken paths in Parametrix files
+***
 
 1. Right click on the file(s) that have broken links.
 
@@ -192,8 +208,11 @@ If elements seem like they're stuck on an x-y axis when you're moving them, you 
 4. Click **Next** until you reach this dialog:
 
     ![](/assets/images/broken-parametrix.png)
+     {: .ml-2 }
 
 5. Enter where the computer should look for the files.
     - You may have to add multiple folders (design, location, hydraulics, sheets, etc.).
 
 6. Let it run the fix. It can take 15 minutes or so if you are fixing multiple files.
+
+[Help documentation]: https://docs.bentley.com/LiveContent/web/Promis.e%20Help-v10/en/FindReplaceText.html

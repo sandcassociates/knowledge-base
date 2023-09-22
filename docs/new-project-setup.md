@@ -19,6 +19,7 @@ nav_order: 1
 This page is a resource for setting up a new project. For new projects, you'll need to set up the [plan sheets], [container file] (also sometimes called the zbase file), and the [border file].
 
 ## Create a new S&C Plan Sheet folder and copy plan sheets in
+***
 
 1.  Navigate to the project in ProjectWise
 
@@ -50,6 +51,7 @@ This page is a resource for setting up a new project. For new projects, you'll n
 10. Follow steps 6 - 9 for the rest of the plan sheets in the S&C folder.
 
 ## Create a new SWPP border file and container file
+***
 
 1.  Locate the prime's border file, then copy it (right click > **Copy**).
 
@@ -71,7 +73,8 @@ This page is a resource for setting up a new project. For new projects, you'll n
 
     -   Xxxx would be the project name
 
-## Update the sheet plans to reference the border file & container file & create saved view
+## Update the sheet plans to reference the border file & container file
+***
 
 When you first open the plan sheet file, it may take a long time to load. It will also include all the references and bubble call outs from the original prime version of the file. You'll need to replace the prime's [container file] and [border file] references with the new swpp
 versions of them, and then detach all the other references. Then, you'll want to clean up the bubble call outs, leaving only the annotations that are relevant to SWPPP work. Finally, you'll want to create a new saved view called "SWPP".
@@ -94,25 +97,29 @@ versions of them, and then detach all the other references. Then, you'll want to
 
 8.  Follow steps 2-7 for the container file, making sure to browse to the new container file in the S&C folder.
 
-9.  Remove any bubble call outs and annotations that aren't relevant to the SWPPP sheets.
+## Create saved view
+***
+
+1.  Remove any bubble call outs and annotations that aren't relevant to the SWPPP sheets.
 
     -   Generally, we only want to keep road names, begin & end construction annotations, and township and range annotations (will look something like T.3N, R.18E, B.M.).
 
-10. Create a saved view by going to **Drawing Production** > **Create Saved View**
+2. Create a saved view by going to **Drawing Production** > **Create Saved View**
 
-11. Set the Method to "From 2-Points", View Type to "General, Name to "SWPP", and Clip Volume to "(From View)"
+3. Set the Method to "From 2-Points", View Type to "General, Name to "SWPP", and Clip Volume to "(From View)"
 
     -   Leave Description, Create Drawing, and Associative blank
 
-12. Select the top left corner of the cut-sheet box, then select the lower right corner.
+4. Select the top left corner of the cut-sheet box, then select the lower right corner.
 
     -   The Information center (bottom left of screen) will say "Saved View "SWPP" Created" to confirm.
 
     -   You can also use the key-in `namedview create 1 SWPP` 
 
-13. Close and Check In the file, then repeat the above steps for the rest of the swpp plan sheets.
+5. Close and Check In the file, then repeat the above steps for the rest of the swpp plan sheets.
 
 ## Update the border file
+***
 
 1.  Open the border file in ProjectWise
 
@@ -134,7 +141,8 @@ versions of them, and then detach all the other references. Then, you'll want to
 
 6.  Close and Check In the file.
 
-## Set up the print set (pset) for the project.
+## Set up the print set (pset) for the project
+***
 
 Follow the steps in [Pset Creation].
 

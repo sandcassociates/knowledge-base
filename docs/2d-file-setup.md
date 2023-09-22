@@ -24,6 +24,7 @@ sure you understand the fundamental concepts behind the project you're undertaki
 2D files are used for SWPPP and utility projects, as well as drainage design files. For creating a 3D file for 3D drainage modeling, see [3D File Setup].
 
 ## Creating SWPPP, utility, or drainage design files
+***
 
 1.  Navigate to the project in ITD ProjectWise.
 
@@ -72,6 +73,7 @@ sure you understand the fundamental concepts behind the project you're undertaki
 11. Close the file.
 
 ## Creating working design files
+***
 
 Working files are files that are not yet ready to be available for others to reference or view.
 
@@ -85,6 +87,7 @@ Working files are files that are not yet ready to be available for others to ref
     -   Add a folder with your first initial and last name:
 
     ![](../assets/images/working-directory.png)
+    {: .ml-5 }
 
 3.  Find the project-specific [seed] file, usually located in the Design folder or in the Project Resources folder.
 
@@ -122,6 +125,7 @@ Working files are files that are not yet ready to be available for others to ref
 10. When you are ready to move the file to the Design folder for others to use and reference, remove `_Working` from the end. Right click on the file, select **Cut**, and **Paste** it into the Design folder.
 
 ## Archiving files
+***
 
 Once you are done with a file, move it to **Design** > **Working** > **S&C** > **Archive**. This will help with data management. Never delete files, always archive them. If an Archive folder doesn't exist yet, create one.
 

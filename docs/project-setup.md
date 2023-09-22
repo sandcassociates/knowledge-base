@@ -7,7 +7,9 @@ permalink: /docs/project-setup
 ---
 
 # Project Setup
-Getting a new project ready to work on usually means setting up the files you'll be working on over the course of the project. 
+***
+Getting a new project ready to work on usually means setting up the files you'll be working on over the course of the project. Once you've set up your files, you can begin the actual [design] work.
+{: .fs-6 .fw-300 }
 
 When you start a new project, you'll need to:
 

@@ -19,6 +19,7 @@ nav_order: 3
 This page explains how to display [contours] in terrain files which are typically provided by the prime.
 
 ## For Proposed Contours
+***
 
 1.  Use the Element Selection tool to click on a terrain model boundary or contour. 
 
@@ -31,14 +32,17 @@ This page explains how to display [contours] in terrain files which are typicall
     -   When you select Yes, the Override template will display.
 
     ![](../assets/images/contour-highlighted.png)
+    {: .ml-5 }
 
 4.  From the Override Template drop-down menu, select **Modeling** > **Terrain Display** > **Design Contours**.
 
     ![](../assets/images/design-contours.png)
+    {: .ml-5 }
 
 5.  Select the same drop-down again and click **Manage Templates...**
 
     ![](../assets/images/manage-templates.png)
+    {: .ml-5 }
 
 6.  Navigate to **Modeling** > **Terrain Display** > **Design Contours**.
 
@@ -51,14 +55,17 @@ This page explains how to display [contours] in terrain files which are typicall
 9.  The Contour lines should now display in the [design] file. 
 
 ## For Existing Contours
+***
 
 1.  Follow the same steps as above but set the Override Template in step 4 to **Modeling** > **Terrain Display** > **Existing Contours**.
 
 -   Existing contours are displayed in grey.
 
 ![](../assets/images/existing-contours.png)
+{: .ml-5 }
 
 ## Troubleshooting
+***
 
 **Text display issues**
 

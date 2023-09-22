@@ -22,6 +22,7 @@ This page will guide you through the full workflow for creating plan sheets in O
 It's much simpler (and preferred) to create plan sheets following the instructions on the [Sheet Setup] page.
 
 ## Set up your Container File
+***
 
 1.  Copy the project 2D Design seed file to the S&C Plan Sheet folder in ProjectWise
 
@@ -34,10 +35,12 @@ It's much simpler (and preferred) to create plan sheets following the instructio
     a.  Usually Alignment, Terrain, ROW, Topo 
 
 ## Drawing production process
+***
 
 1.  In ORD, navigate to **Drawing Production** > **Named Boundary**
 
     ![](../assets/images/named-boundary-icon.png)
+    {: .ml-5 }
 
 2.  Click the drop-down arrow.
 
@@ -50,10 +53,12 @@ It's much simpler (and preferred) to create plan sheets following the instructio
     -   Generally for plan sheets, you will select **Civil Plan**. This creates sheets based on the project alignment.
 
     ![](../assets/images/named-boundary-properties.png)
+    {: .ml-5 }
 
 5.  Select your Drawing Seed based off the desired sheet scale. This can sometimes be a trial-and-error thing. 
 
     ![](../assets/images/create-drawing.png)
+    {: .ml-2 }
 
 6.  The Detail Scale, Left Offset, Right Offset, and Length will be automatically defined based on your seed selection.
 
@@ -66,6 +71,7 @@ It's much simpler (and preferred) to create plan sheets following the instructio
 10. The Create Drawing dialog window will display.
 
     ![](../assets/images/create-drawing.png)
+    {: .ml-2 }
 
 11. Name the sheet accordingly. (How do you pick a name accordingly?)
 
