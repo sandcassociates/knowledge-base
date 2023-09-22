@@ -19,7 +19,7 @@ When you start a new project, you'll need to:
 
 - [X] Get the [Print Set] (pset) ready
 
-[2D]: /docs/2d-file-setup
-[3D]: /docs/3d-file-setup
-[plan sheets]: /docs/sheet-setup
-[Print Set]: /docs/sheet-printing
+[2D]: /knowledge-base/docs/2d-file-setup
+[3D]: /knowledge-base/docs/3d-file-setup
+[plan sheets]: /knowledge-base/docs/sheet-setup
+[Print Set]: /knowledge-base/docs/sheet-printing

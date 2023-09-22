@@ -61,8 +61,8 @@ Once you conceptually understand drainage design, follow the steps in [New Proje
 [Developing Your Storm Water Pollution Prevention Plan]: https://www3.epa.gov/npdes/pubs/sw_swppp_guide.pdf
 [Storm Water: Idaho Department of Environmental Quality]: https://www.deq.idaho.gov/water-quality/wastewater/storm-water/
 [Storm Water Pollution Prevention Plan (SWPPP) Narrative for Construction Activities (2950)]: https://www.formalu.com/forms/39396/stormwater-pollution-prevention-plan-swppp-narrative-for-construction-activities
-[ORD Training Links]: /docs/ord-training-links
-[New Project Setup]: /docs/new-project-setup
-[3d File Setup]: /docs/3d-file-setup
-[best management practices]: /docs/glossary#bmp
-[design file]: /docs/glossary#design-file
+[ORD Training Links]: /knowledge-base/docs/ord-training-links
+[New Project Setup]: /knowledge-base/docs/new-project-setup
+[3d File Setup]: /knowledge-base/docs/3d-file-setup
+[best management practices]: /knowledge-base/docs/glossary#bmp
+[design file]: /knowledge-base/docs/glossary#design-file

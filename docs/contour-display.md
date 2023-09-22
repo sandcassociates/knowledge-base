@@ -64,5 +64,5 @@ This page explains how to display [contours] in terrain files which are typicall
 
 If there are issues with the way your text displays (elevation numbers), identify which style is being used and update it in Text Styles.The easiest way to access Text Styles is to use the Search bar at the top right of your screen.
 
-[contours]: /docs/glossary#contours
-[design]: /docs/glossary#design-file
+[contours]: /knowledge-base/docs/glossary#contours
+[design]: /knowledge-base/docs/glossary#design-file

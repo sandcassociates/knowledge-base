@@ -24,7 +24,7 @@ For our purposes, a basin is an area where water collects and flows towards a ce
 
 1.  Open the 2D Design file.
 
-2.  Display the proposed terrain file level. See the [Tips & Tricks](/docs/ord-tips#how-to-display-a-level) page for more information on levels.
+2.  Display the proposed terrain file level. See the [Tips & Tricks](/knowledge-base/docs/ord-tips#how-to-display-a-level) page for more information on levels.
 
 3.  Display the proposed alignment (`ALG` or `ALGN`) file level.
 
@@ -34,7 +34,7 @@ For our purposes, a basin is an area where water collects and flows towards a ce
 
     ![](../assets/images/crown-shed.png)
 
-5.  Using the proposed surface (proposed terrain + proposed alignment = proposed surface), draw proposed drainage arrows throughout the project. See the [Tips & Tricks](/docs/ord-tips#placing-a-new-arrow) for how to draw an arrow.
+5.  Using the proposed surface (proposed terrain + proposed alignment = proposed surface), draw proposed drainage arrows throughout the project. See the [Tips & Tricks](/knowledge-base/docs/ord-tips#placing-a-new-arrow) for how to draw an arrow.
 
     -   Water flows perpendicular to the contour lines. In the illustration below, the contour lines are the red and yellow lines.
 
@@ -70,7 +70,7 @@ For our purposes, a basin is an area where water collects and flows towards a ce
 
     -   Keep impervious and pervious basins separate. This will make it easier to calculate areas for the basins.
 
-    -   Put the impervious and pervious basins on different levels. See [Tips & Tricks](/docs/ord-tips#how-to-create-a-new-level) for how to create new levels.
+    -   Put the impervious and pervious basins on different levels. See [Tips & Tricks](/knowledge-base/docs/ord-tips#how-to-create-a-new-level) for how to create new levels.
 
     -   Follow the naming conventions for the new level and add `PERV` or `IMPERV`.
 
@@ -102,9 +102,9 @@ For our purposes, a basin is an area where water collects and flows towards a ce
 
 2.  Place all delineations on existing conditions levels such as `HYDR_Flowpath_Existing` or `HYDR_Drainage_Basin-Existing`
 
-[Tips & Tricks]: /docs/tips-and-tricks
-[swales]: /docs/glossary#swale
-[pervious]: /docs/glossary#pervious-drainage-basin
-[impervious]: /docs/glossary#impervious-drainage-basin
-[alignment line]: /docs/glossary#alignment-line
-[ROW (right-of-way) line]: /docs/glossary#row-line
+[Tips & Tricks]: /knowledge-base/docs/tips-and-tricks
+[swales]: /knowledge-base/docs/glossary#swale
+[pervious]: /knowledge-base/docs/glossary#pervious-drainage-basin
+[impervious]: /knowledge-base/docs/glossary#impervious-drainage-basin
+[alignment line]: /knowledge-base/docs/glossary#alignment-line
+[ROW (right-of-way) line]: /knowledge-base/docs/glossary#row-line

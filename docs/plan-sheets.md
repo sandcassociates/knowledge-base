@@ -11,5 +11,5 @@ Plan sheets are the actual files we deliver to the prime that shows our design w
 
 To prepare plan sheets, you'll need to set up the [plan sheet files], [create the pset], attach the border file and container file, add bubble call outs and quantity annotations, and finally print the plan sheets to PDF via the pset.
 
-[plan sheet files]: /docs/sheet-setup
-[create the pset]: /docs/sheet-printing
+[plan sheet files]: /knowledge-base/docs/sheet-setup
+[create the pset]: /knowledge-base/docs/sheet-printing

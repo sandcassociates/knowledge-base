@@ -111,7 +111,7 @@ or view.
 
 Once you are done with a file, move it to **Design** > **Working** > **S&C** > **Archive**. This will help with data management. Never delete files, always archive them. If an Archive folder doesn't exist yet, create one.
 
-[Tips & Tricks]: /docs/tips-and-tricks
-[seed]: /docs/glossary#seed-file
-[prime]: /docs/glossary#prime
-[ITD]: /docs/glossary#itd
+[Tips & Tricks]: /knowledge-base/docs/tips-and-tricks
+[seed]: /knowledge-base/docs/glossary#seed-file
+[prime]: /knowledge-base/docs/glossary#prime
+[ITD]: /knowledge-base/docs/glossary#itd
