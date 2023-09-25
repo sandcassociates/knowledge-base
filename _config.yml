@@ -10,7 +10,7 @@ aux_links:
 callouts:
     note:
         title: note
-        color: purple
+        color: blue
     alert:
         title: alert
         color: yellow
