@@ -23,3 +23,8 @@ mermaid:
 color_scheme: blue
 
 favicon_ico: "/assets/images/S_C_logo.png"
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2023 S&C Associates"
