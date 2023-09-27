@@ -73,5 +73,5 @@ This document will guide you through how to set up plan sheets for a project.
 
 12. Click **Check In** to save your changes.
 
-{: .alert }
+{: .note }
 Be sure to only check in the SWPP file you're working on. Sometimes, you may find that the reference files have been checked out. Be sure to Free any files that don't belong to S&C. 
