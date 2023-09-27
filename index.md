@@ -2,7 +2,7 @@
 title: Home
 layout: home
 nav_order: 1
-description: "S&C KB Home"
+description: "S&C Knowledge Base"
 permalink: / 
 ---
 
