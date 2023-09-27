@@ -10,7 +10,7 @@ aux_links:
 callouts:
     note:
         title: note
-        color: purple
+        color: blue
     alert:
         title: alert
         color: yellow
@@ -19,3 +19,7 @@ callouts:
         color: red
 mermaid:
   version: "9.1.6"
+
+color_scheme: blue
+
+favicon_ico: "/assets/images/S_C_logo.png"

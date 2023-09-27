@@ -18,7 +18,7 @@ nav_order: 2
 
 This page will guide you through the full workflow for creating plan sheets in OpenRoads Designer Connect Edition.
 
-{: .alert}
+{: .note}
 It's much simpler (and preferred) to create plan sheets following the instructions on the [Sheet Setup] page.
 
 ## Set up your Container File
@@ -91,8 +91,7 @@ It's much simpler (and preferred) to create plan sheets following the instructio
 
 17. Annotate sheets as needed in the Sheet Model (white background) of the sheet file. 
 
-{: .note}
-To access, manage, or reprint the named boundaries you have created, search *Named Boundaries* in the search bar, located in the upper right-hand corner of the screen. 
+    - To access, manage, or reprint the named boundaries you have created, search *Named Boundaries* in the search bar, located in the upper right-hand corner of the screen. 
 
 [Sheet Setup]: /knowledge-base/docs/sheet-setup
 [command view]: https://docs.bentley.com/LiveContent/web/OpenRoads%20Designer%20CONNECT%20Edition-v13/en/GUID-40CF9525-AB56-47BF-AF51-63D75333BB61.html
