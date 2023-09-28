@@ -36,7 +36,7 @@ Your email account is set up with no action on your part necessary. You can acce
 - Select **Core** ($300)
   - You'll need a new account, be sure to use your S&C email address
    
-## Dopbox
+## Dropbox
 ***
 - To download the Dropbox desktop app, [click here]
   - Once you've downloaded and set up your Dropbox account, contact your supervisor to be given access to the necessary folders for your work assignments

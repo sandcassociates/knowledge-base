@@ -34,6 +34,9 @@ Common BMPs we use at S&C Associates include:
 ### Border file
 S&C has its own border that is attached to all plan sheets. It includes things like the file name, the designer and engineer who worked on the project, and the principal engineer's stamp. The border file is discipline specific, so a single project might have multiple border files (e.g., SWPPP, Utility, profile, and drainage borders). Every plan sheet will need the border file attached as a reference. 
 
+### CAD
+Computer-Aided Design. The use of computers (via software) to aid in the creation, modification, analysis, or optimization of a design. At S&C, we use Bentley OpenRoads Designer as our CAD software.
+
 ### Container file
 The container file that all references you want displayed on your sheets should be referenced into. This is where you will set the layers you want displayed. **No design should be done in the container file.** The container file is sometimes also called the Zbase file.
 
