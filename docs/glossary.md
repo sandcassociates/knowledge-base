@@ -100,6 +100,12 @@ Storm Water Pollution Protection Plan. A comprehensive document designed to miti
 ### SWPPP design files
 Storm water Pollution Prevention Plan (SWPPP) design file serves as a blueprint for preventing or minimizing the discharge of pollutants, sediment, and contaminants from construction activities into nearby water bodies or storm water drainage systems. The SWPPP design files we create at S&C will usually include best management practices such as seeding, wattles, and inlet protection placement.
 
+### Toe of Fill
+The bottom of a fill. Fill refers to earth that is brought into an area, usually using earth from nearby cuts. Fill sections of roadway are elevated sections of road. See [Cut and fill] on Wikipedia for more.
+
+### Top of Cut
+The top of a cut. In civil engineering, a cut or cutting is where soil or rock from a relative rise is removed. Cuts are typically used in road construction to reduce the length and grade of a route. See [Cut (earthworks)] on Wikipedia for more.
+
 ### Utility files
 Utility files are used to map existing utilities in the project area and guide the design of the project. Utility files are created from data provided by utility companies and survey data from the field. It is necessary to incorporate both to document the utilities.
 
@@ -108,3 +114,7 @@ Working files are files that you are working on and aren't ready for others to r
 
 ### ZBase file
 See [Container File](#container-file)
+
+
+[Cut (earthworks)]: https://en.wikipedia.org/wiki/Cut_\(earthworks\)
+[Cut and fill]: https://en.wikipedia.org/wiki/Cut_and_fill
