@@ -25,7 +25,7 @@ To add a reference file:
 
 1.  Click the dropdown arrow on **Primary** > **Attach Tools** icon: 
 
-    ![](/assets/images/attach-tools.png)
+    ![](../assets/images/attach-tools.png)
     {: .ml-2 }
 
 2.  Click **References**
@@ -75,7 +75,7 @@ Or use the ribbon search bar to search for "Level Display."
 
 3.  Check **Display**:
 
-    ![](/assets/images/display.png)
+    ![](../assets/images/display.png)
     {: .ml-2 }
 
     - Displayed levels will appear black in the Level Display pane while levels that aren't displayed will be grey.
@@ -84,12 +84,12 @@ Or use the ribbon search bar to search for "Level Display."
 
 1.  Right click anywhere in the Child Level box, then click **Level Manager**:
 
-    ![](/assets/images/level-manager.png)
+    ![](../assets/images/level-manager.png)
     {: .ml-2 }
     
 2.  Click **Levels** > **New** or the New Level icon: 
 
-    ![](/assets/images/new-level.png)
+    ![](../assets/images/new-level.png)
     {: .ml-2 }
 
 ### How to view and change the level of an element
@@ -98,7 +98,7 @@ Or use the ribbon search bar to search for "Level Display."
 
 2.  To change the level of an element, go to **Properties** > **General**, click **Level**, then select the new level from the dropdown: 
 
-    ![](/assets/images/level-properties.png)
+    ![](../assets/images/level-properties.png)
     {: .ml-2 }
 
 ### How to set a level as active
@@ -114,16 +114,16 @@ Use arrows to demarcate water flow directions and identify whether a basin is a 
 
 ### Placing a new arrow
 
-1.  Go to **Drawing** > **Placement** > **Place Active Cell**: ![](/assets/images/place-active-cell.png)
+1.  Go to **Drawing** > **Placement** > **Place Active Cell**: ![](../assets/images/place-active-cell.png)
 
 2.  In the Place Active Cell dialog box, click **...** next to the Active Cell text box: 
     
-    ![](/assets/images/active-cell-name.png)
+    ![](../assets/images/active-cell-name.png)
      {: .ml-2 }
 
 3.  Click **Display All Cells**.
 
-    ![](/assets/images/display-all-cells.png)
+    ![](../assets/images/display-all-cells.png)
      {: .ml-2 }
 
 4.  Find the cell library with the straight and wavy arrow cell.
@@ -161,7 +161,7 @@ Use Find and Replace to replace text in a file with something else. Learn more i
 
 4.  Enter the term you want to replace it with in the Replace text bar.
 
-    ![](/assets/images/find-replace.png)
+    ![](../assets/images/find-replace.png)
      {: .ml-2 }
 
 5.  Click **Replace All**.
@@ -207,7 +207,7 @@ If elements seem like they're stuck on an x-y axis when you're moving them, you 
 
 4. Click **Next** until you reach this dialog:
 
-    ![](/assets/images/broken-parametrix.png)
+    ![](../assets/images/broken-parametrix.png)
      {: .ml-2 }
 
 5. Enter where the computer should look for the files.
