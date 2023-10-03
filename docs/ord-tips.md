@@ -168,14 +168,51 @@ Use Find and Replace to replace text in a file with something else. Learn more i
 
     -   Note that this will replace all the instances of the text in the file. If you only want to replace the text in a certain element or portion of the file, be sure to highlight the area you want to replace text in (multi-select by holding the left mouse button down and dragging from the lower right hand corner).
 
-## Fixing broken associations
+## Creating keyboard shortcuts
 ***
 
-If the arrows on your seeding/ wattle bubbles are appearing as dashed lines, you may need to uncheck the Highlight Broken Associations option:
+To create your own keyboard shortcuts for your most frequently used tools:
 
-1.  Navigate to **File** > **Settings** > **Operation**.
+1. Access the keyboard shortcuts by either searching "shortcuts" or go to **File** > **Settings** > **User** > **Keyboard Shortcuts**.
 
-2.  Uncheck **Highlight Broken Associations**.
+    - You'll need to know the key-in for the action or tool you want to create the shortcut for. You can learn more about key-ins on Bentley's [Microstation Help] website - check out the Key-in Index at the bottom of the left-hand menu.
+
+2. Click the Add button to add a new shortcut.
+
+3. Alternatively, you can create a child shortcut. A child shortcut is triggered by first pressing the parent key, then the child key:
+
+    ![](../assets/images/keyboard-shortcuts.png)
+     {: .ml-2 }    
+
+For example, in the above image, Q has several children shortcuts. To use Copy, you'd first press Q, followed by E. To Select, you'd press Q, then press Q again.
+
+Some useful shortcut key-ins that you might want to add to your shortcuts are:
+
+|Name | Key-in |
+|:---|:---|
+| Element Selection |  `choose element` |
+| Break by dragline | `trim break bydragline` |
+| Place line  | `place line` |
+| Create complex shape | `create shape manual` |
+| Tentative snap | `buttonaction tentative` |
+
+
+## Adding pattern fill around an interior shape
+***
+
+If you want to add a pattern fill to an area with an internal shape, use the "locate interior shapes" option in the Pattern Area Properties:
+
+![](../assets/images/hole-fill-tool.png)
+{: .ml-2 }
+
+Then, when you select an area to fill, you'll be able to add a pattern around a shape:
+
+![](../assets/images/pre-patterned-fill.png)
+{: .ml-5 }
+
+![](../assets/images/finished-hole-fill.png)
+{: .ml-2 }
+
 
 ## Finding URN address in ProjectWise
 
@@ -184,6 +221,15 @@ If the arrows on your seeding/ wattle bubbles are appearing as dashed lines, you
 2.  In the Address bar, right click the file name.
 
 3.  Select **Copy URN**.
+
+## Troubleshooting broken associations
+***
+
+If the arrows on your seeding/ wattle bubbles are appearing as dashed lines, you may need to uncheck the Highlight Broken Associations option:
+
+1.  Navigate to **File** > **Settings** > **Operation**.
+
+2.  Uncheck **Highlight Broken Associations**.
 
 ## Troubleshooting axis lock
 ***
@@ -213,6 +259,19 @@ If elements seem like they're stuck on an x-y axis when you're moving them, you 
 5. Enter where the computer should look for the files.
     - You may have to add multiple folders (design, location, hydraulics, sheets, etc.).
 
-6. Let it run the fix. It can take 15 minutes or so if you are fixing multiple files.
+6. Let it run the fix. It can take 15 minutes or so if you are fixing multiple files
+
+## Troubleshooting Toe of Fill offsets
+***
+
+If you can't copy a parallel off of a Toe of Fill line in ORD:
+
+1. Make a copy of the Toe of Fill line dots.
+
+2. Paste the copied dots directly over the original ones.
+
+3. Select Drop Element ![drop element icon](../assets/images/drop-icon.png)
+
 
 [Help documentation]: https://docs.bentley.com/LiveContent/web/Promis.e%20Help-v10/en/FindReplaceText.html
+[Microstation Help]: https://docs.bentley.com/LiveContent/web/MicroStation%20Help-v24/en/GUID-288FAFD8-1107-4FCB-9843-8BECC9099A06.html
