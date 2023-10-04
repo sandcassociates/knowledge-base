@@ -56,7 +56,7 @@ Your email account is set up with no action on your part necessary. You can acce
 
 ## OpenRoads Designer
 ***
-OpenRoads Desginer is billed quarterly based on the number of licenses used. You won't need to pay but confirm with your supervisor that you've been granted access. 
+OpenRoads Designer is billed quarterly based on the number of licenses used. You won't need to pay but confirm with your supervisor that you've been granted access. 
 1. Open ConnectionClient
 2. Click **CONNECT Center**
 3. On connect.bentley.com, scroll down, then click **Software Downloads**
@@ -69,7 +69,7 @@ OpenRoads Desginer is billed quarterly based on the number of licenses used. You
 This will require special permissions from ITD and S&C. Like OpenRoads Designer, you won’t need to pay, but you’ll need to confirm with your supervisor that you’ve been granted access.
 
 1. Go to [Bentley Software Downloads]
-2. Click **Get Software** for ProjectWise Explorere Client
+2. Click **Get Software** for ProjectWise Explorer Client
 3. Request Login information from ITD
 4. Add [ITD's ProjectWise Datasource] to ProjectWise Explorer
 
@@ -82,13 +82,66 @@ If you're unable to login with the provided password, you may need to input your
   - Site Activation Key: [REQUEST FROM SUPERVISOR]
 3. Select your country as United States > Skip License Checkout > Finish
 
-## Activating ITD and HDR's ProjectWise Datasource Gateways
+## Activating ITD's ProjectWise Datasource Gateway
 ***
-You'll need both ITD and HDR login credentials to access their respective ProjectWise files. Contact your supervisor to request access.
+You'll need ITD login credentials to access ITD's ProjectWise files. Contact your supervisor to request access.
 
 Then, follow their instructions for logging in:
 
-- [ITD's ProjectWise Datasource]
+1. In ProjectWise, got to **Tools** > **Network Configuration Settings**.
+
+    ![](../assets/images/network-config.png)
+    {: .ml-2 }
+
+2. Under the *General* tab, check **Prevent UDP for DNS and Listening**.
+
+    ![](../assets/images/prevent-udp.png)
+    {: .ml-2 }
+
+3. Click **Run as Administrator**.
+
+    ![](../assets/images/run-as-admin.png)
+    {: .ml-2 }
+
+4. Click the *DNS Services* tab, check **Prevent UDP**
+
+5. Fill in the Name and Hostname fields with **itd-pw.bentley.com**
+
+6. Fill in the Port field with **5800**.
+
+    ![](../assets/images/dns-services.png)
+    {: .ml-2 }
+
+7. Repeat steps 4 and 5 on the *Datasource Listening* tab.
+
+    ![](../assets/images/datasource-listening.png)
+    {: .ml-2 }
+
+8. Click **Save**.
+
+9. Close and re-open ProjectWise. You should see PWITD's datasource.
+
+10. Double-click on the PWITD datasource.
+
+11. You'll be prompted to log in. 
+
+  - Select **PWITD** in the Datasource field.
+
+  - Select **Bentley IMS** for your Authentication.
+
+    ![](../assets/images/projectwise-login.png)
+    {: .ml-5 }
+
+  - Click **Log in** or **Activate**, depending on which ProjectWise version you're using.
+
+  - If you're not signed in, you'll be prompted to at this time. Use your ITD login credentials to log in.
+
+## Activating HDR's ProjectWise Datasource Gateway
+***
+YOu'll need HDR login credentials to access HDR's ProjectWise files. Contact your supervisor to request access.
+
+Then, follow their instructions:
+
 - [HDR's ProjectWise Datasource]
 
 ## Changing your ITD Password
