@@ -109,6 +109,9 @@ The top of a cut. In civil engineering, a cut or cutting is where soil or rock f
 ### Utility files
 Utility files are used to map existing utilities in the project area and guide the design of the project. Utility files are created from data provided by utility companies and survey data from the field. It is necessary to incorporate both to document the utilities.
 
+### Wattles
+Straw wattles are a BMP that helps prevent erosion by slowing the flow of storm water over bare or newly seeded slopes. See [this page] for more information about the uses and benefits of wattles.
+
 ### Working file
 Working files are files that you are working on and aren't ready for others to reference or view. Working files are kept in your own working folder in ProjectWise and end in `_working.dgn`
 
@@ -118,3 +121,4 @@ See [Container File](#container-file)
 
 [Cut (earthworks)]: https://en.wikipedia.org/wiki/Cut_\(earthworks\)
 [Cut and fill]: https://en.wikipedia.org/wiki/Cut_and_fill
+[this page]: https://www.whitecap.com/erosion-control/uses-and-benefits-of-wattles
