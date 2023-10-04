@@ -21,9 +21,16 @@ SWPPP design in ORD has two phases: the first involves adding your SWPPP [BMPs] 
 This page covers the first phase: adding your BMPs to the SWPPP design file. 
 
 ## Adding Seeding to the Design File
+***
 Seeding shapes show the on-site contractors where to place temporary seeding, permanent seeding, as well as fertilizers and topsoil. 
 
+The final shapes will look something like this:
+
+![](../assets/images/finished-seeding.png)
+{: .ml-2 }
+
 ### Confirm the offset measurements with your PM
+***
 
 - The offset is usually measured from the Edge of Pavement and the [Top of Cut] or [Toe of Fill] lines.
 
@@ -32,6 +39,7 @@ Seeding shapes show the on-site contractors where to place temporary seeding, pe
 - Depending on the project, you may also need to turn on levels that display things like retaining walls and sidewalks.
 
 ### Create a [new level] for your seeding shapes
+***
 
 1. Navigate to the Level Display pane and select the topmost design file.
     
@@ -48,6 +56,7 @@ Seeding shapes show the on-site contractors where to place temporary seeding, pe
 3. Set the new level to  [active].
 
 ### Create seeding shapes
+***
 
 1. Make sure you're on the correct level for your seeding shape.
 
@@ -71,6 +80,7 @@ Seeding shapes show the on-site contractors where to place temporary seeding, pe
 8. Take a little time to clean up your shape (move handles that are outside the shape back into it, make sure your shape is confined to within the sheet edges, etc.).
 
 ### Fill your shape with the seeding pattern
+***
 
 1. Use the Element Selection tool to select your shape.
 
@@ -81,9 +91,78 @@ Seeding shapes show the on-site contractors where to place temporary seeding, pe
 
 3. You can pattern around [interior shapes] if you need to.
 
+## Adding Wattles to the Design File
+***
+
+Wattle lines in ORD show where [wattles] should be places on seeding shapes. Wattles are placed along major contours on slopes that within seeding shapes and edges of seeding shapes that are along Toe of Fill lines. 
+
+When you're done placing wattles, your design should look like:
+
+![](../assets/images/finished-wattles.png)
+{: .ml-2 }
+
+### Create a [new level] for your wattle lines
+***
+
+1. Navigate to the Level Display pane and select the topmost design file.
+    
+    - The topmost design file should be your SWPPP design file.
+
+    ![](../assets/images/wattle-level.png)
+    {: .ml-2 }
+
+2. Name your new level something like `ENV_Wattle_[RAMP or ROAD name]` and set the level color to 0 (white).
+
+    {: .note }
+    It's helpful to name your level after the seeding shape that the wattle lies on top of, as you'll want to display the wattle on the correct level with the corresponding plan sheet (i.e., the plan sheets for **Ramp AB** should display the `ENV_Wattle_RampAB` wattle lines).
+
+3. Set the new level to  [active].
+
+### Turn on your proposed contours
+***
+
+1. Make sure you have the project's surface file referenced in. It will be named something like `12345_surfD100.dgn` or `12345_prtr_D100.dgn` (for "proposed terrain").
+
+2. If the file is referenced in, but you're not seeing any contour lines, make sure the surface file model is **Default-3D**:
+
+    ![](../assets/images/surface-3d-model.png)
+    {: .ml-2 }
+
+    - If you need to adjust the distance between contour lines, follow the steps on the [Displaying Surface Contours in ORD] page to manipulate the contour display settings.
+
+### Add Wattle lines
+
+1. Make sure your line style attribute is set to "Wattle":
+
+    ![](../assets/images/wattle-line-style.png)
+    {: .ml-2 }
+
+2. Place a wattle line along every major contour.
+
+    - Major contours (in red below) should be every 10 feet of elevation, while minor contours (in yellow below) are every 2 feet.  
+
+    ![](../assets/images/contour-example.png)
+    {: .ml-5 }
+
+3. Place a wattle along the outside of a seeding shape when there is a fill line.
+
+    - Outside meaning the furthest boundary of the seeding shape away from the edge of pavement.
+
+4. If a contour extends across two sheets, end the wattle line at the sheet boundary, then start a new wattle line on the next sheet. 
+
+5. Once you've placed a line of wattles, use the Complex Chain tool to change the line into a chain.
+
+    - The Complex Chain tool creates a single contiguous line out of several smaller lines. This lets us measure a single wattle line's total length for quantity measurements. 
+
+## Adding Inlet Protection to the Design File
+***
+
+Inlet protection symbols show which inlets in a design plan need inlet protection devices. Generally, inlet protection devices are placed over inlets in roadways, and wattle inlet protection devices are placed over inlets in seeding areas.
+
 [Top of Cut]: /knowledge-base/docs/glossary#top-of-cut
 [Toe of Fill]: /knowledge-base/docs/glossary#toe-of-fill
 [BMPs]: /knowledge-base/docs/glossary#bmp
 [new level]: /knowledge-base/docs/ord-tips#how-to-create-a-new-level
 [active]: /knowledge-base/docs/ord-tips#how-to-set-a-level-as-active
 [interior shapes]: /knowledge-base/docs/ord-tips#adding-pattern-fill-around-an-interior-shape
+[Displaying Surface Contours in ORD]: /knowledge-base/docs/contour-display

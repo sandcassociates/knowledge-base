@@ -2,7 +2,7 @@
 layout: default
 title: Contour Display
 parent: Design
-nav_order: 3
+nav_order: 4
 ---
 
 # Displaying Surface Contours in ORD
@@ -16,7 +16,7 @@ nav_order: 3
 
 ---
 
-This page explains how to display [contours] in terrain files which are typically provided by the prime.
+This page explains how to manipulate [contours] in terrain files which are typically provided by the prime.
 
 ## For Proposed Contours
 ***
