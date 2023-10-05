@@ -159,6 +159,68 @@ When you're done placing wattles, your design should look like:
 
 Inlet protection symbols show which inlets in a design plan need inlet protection devices. Generally, inlet protection devices are placed over inlets in roadways, and wattle inlet protection devices are placed over inlets in seeding areas.
 
+In ORD, inlets are usually in a hydraulics file and can look like:
+
+![](../assets/images/inlet-example-1.png)
+{: .ml-2 }
+
+But they may look different at times. Check any blue squares or circles to see if they're called "inlets" (some circles may be manholes, which don't need protection).
+
+### Reference in the Hydro File
+***
+
+1. If the hydro file isn't already referenced in, [attach it]. 
+
+    - The hydro file will most likely be in the project's Hydraulics folder (not Design). It will be named something like `12345 hydr D101.dgn`. The `hydr` part of the name is "hydraulics"
+
+### Create a [new level] for your inlet protection
+***
+
+1. Navigate to the Level Display pane and select the topmost design file.
+    
+    - The topmost design file should be your SWPPP design file.
+
+    ![](../assets/images/wattle-level.png)
+    {: .ml-2 }
+
+2. Name your new level something like `Inlet_Protection_[RAMP or ROAD name]` and set the level color to 1 (blue).
+
+    {: .note }
+    It's helpful to name your level after the seeding shape that the wattle lies on top of, as you'll want to display the wattle on the correct level with the corresponding plan sheet (i.e., the plan sheets for **Ramp AB** should display the `Inlet_Protection_RampAB` wattle lines).
+
+3. Set the new level to  [active].
+
+### Get a copy of the inlet protection symbol
+***
+
+1. Open an recent completed project's Design file and locate an inlet protection symbol:
+
+![](../assets/images/inlet-protection-1.png)
+{: .ml-2 }
+
+2. Long right-click on the symbol, then select **Copy to Clipboard**.
+
+3. Return to your project's SWPPP Design file.
+
+4. Locate an inlet, then long right-click and select **Paste from Clipboard**.
+
+### Add inlet protection symbols to all inlets in the Design file
+***
+
+1. Place the inlet protection symbol [centered] over the inlet:
+
+![](../assets/images/inlet-protection-2.png)
+{: .ml-2 }
+
+2. Make sure the copied inlet protection symbol is on the correct level. 
+
+    - If it's not on the right level, [change the level].
+
+3. Use the **Element Selection** tool to highlight the inlet protection symbol, then use the **Copy** tool to make a copy.
+
+4. Continue placing copied inlet protection symbols on all the inlets.
+
+
 [Top of Cut]: /knowledge-base/docs/glossary#top-of-cut
 [Toe of Fill]: /knowledge-base/docs/glossary#toe-of-fill
 [BMPs]: /knowledge-base/docs/glossary#bmp
@@ -166,3 +228,6 @@ Inlet protection symbols show which inlets in a design plan need inlet protectio
 [active]: /knowledge-base/docs/ord-tips#how-to-set-a-level-as-active
 [interior shapes]: /knowledge-base/docs/ord-tips#adding-pattern-fill-around-an-interior-shape
 [Displaying Surface Contours in ORD]: /knowledge-base/docs/contour-display
+[attach it]: /knowledge-base/docs/ord-tips#attaching-reference-files
+[change the level]: /knowledge-base/docs/ord-tips#how-to-view-and-change-the-level-of-an-element
+[centered]:  /knowledge-base/docs/ord-tips#rotating-elements

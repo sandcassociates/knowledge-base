@@ -213,8 +213,21 @@ Then, when you select an area to fill, you'll be able to add a pattern around a 
 ![](../assets/images/finished-hole-fill.png)
 {: .ml-2 }
 
+## Rotating Elements
+***
+
+1. Use the **Element Selection** tool to highlight the element you want to rotate.
+
+2. Select the **Rotate** tool.
+
+3. Set the Method to **3 points**, then click in the center of your element and then somewhere outside the element.
+
+4. Use your mouse to rotate the element to the desired position. 
+
+Learn more about the rotate tool on Bentley's [Help] portal.
 
 ## Finding URN address in ProjectWise
+***
 
 1.  In ProjectWise, highlight the file you want the URN for.
 
@@ -275,3 +288,4 @@ If you can't copy a parallel off of a Toe of Fill line in ORD:
 
 [Help documentation]: https://docs.bentley.com/LiveContent/web/Promis.e%20Help-v10/en/FindReplaceText.html
 [Microstation Help]: https://docs.bentley.com/LiveContent/web/MicroStation%20Help-v24/en/GUID-288FAFD8-1107-4FCB-9843-8BECC9099A06.html
+[Help]: https://docs.bentley.com/LiveContent/web/Promis.e%20Help-v10/en/ManipulateRotate.html
