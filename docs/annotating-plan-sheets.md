@@ -30,6 +30,7 @@ After you've [added BMPs to the Design] file, you need to annotate your plan she
     - The number in the bubble call out corresponds to a BMP's bid item number. For example, 212-095A is an inlet protection BMP, while 212-011A is for wattles. For seeding shapes, you'll need to use the call out with six stacked bubbles:
 
     ![](../assets/images/seeding-bubbles.png)
+    {: .ml-5 }
 
     - If a call out's bid item number is incorrect, fix it in the [border file]. 
 
@@ -49,7 +50,8 @@ After you've [added BMPs to the Design] file, you need to annotate your plan she
 
 6. If you have multiples of the same BMPs near each other, you can paste multiple bubble call outs on top of each other and point the arrows to the various BMPs:
 
-![](../assets/images/multi-arrow-bubble.png)
+    ![](../assets/images/multi-arrow-bubble.png)
+    {: .ml-2 }
 
     - Be sure to delete the overlapping bubble call outs, as they'll show up darker in the printed version of the sheet. 
 
