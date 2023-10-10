@@ -31,6 +31,9 @@ Common BMPs we use at S&C Associates include:
 - Sediment basins to settle out sediment from storm water runoff
 - Inlet protection to capture sediment before it drains into sewers
 
+### Boneyard
+A plan sheet's "boneyard" exists outside the sheet border and contains common symbols that can be copied into the sheet.
+
 ### Border file
 S&C has its own border that is attached to all plan sheets. It includes things like the file name, the designer and engineer who worked on the project, and the principal engineer's stamp. The border file is discipline specific, so a single project might have multiple border files (e.g., SWPPP, Utility, profile, and drainage borders). Every plan sheet will need the border file attached as a reference. 
 
