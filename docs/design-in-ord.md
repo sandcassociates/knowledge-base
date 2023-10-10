@@ -164,7 +164,7 @@ In ORD, inlets are usually in a hydraulics file and can look like:
 ![](../assets/images/inlet-example-1.png)
 {: .ml-2 }
 
-But they may look different at times. Check any blue squares or circles to see if they're called "inlets" (some circles may be manholes, which don't need protection).
+But they may look different at times. Check any squares or circles to see if they're called "inlets" (some circles may be manholes, which don't need protection).
 
 ### Reference in the Hydro File
 ***
@@ -220,6 +220,11 @@ But they may look different at times. Check any blue squares or circles to see i
 
 4. Continue placing copied inlet protection symbols on all the inlets.
 
+## Next Steps
+***
+
+Once you've placed all your BMPs in the Design file, you can begin [adding bubble call outs] to your plan sheets.
+
 
 [Top of Cut]: /knowledge-base/docs/glossary#top-of-cut
 [Toe of Fill]: /knowledge-base/docs/glossary#toe-of-fill
@@ -231,3 +236,4 @@ But they may look different at times. Check any blue squares or circles to see i
 [attach it]: /knowledge-base/docs/ord-tips#attaching-reference-files
 [change the level]: /knowledge-base/docs/ord-tips#how-to-view-and-change-the-level-of-an-element
 [centered]:  /knowledge-base/docs/ord-tips#rotating-elements
+[adding bubble call outs] : /knowledge-base/docs/annotating-plan-sheets#adding-bubble-call-outs
