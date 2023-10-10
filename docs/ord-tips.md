@@ -226,6 +226,23 @@ Then, when you select an area to fill, you'll be able to add a pattern around a 
 
 Learn more about the rotate tool on Bentley's [Help] portal.
 
+## Clip Mask an Annotation Bubble
+***
+
+1. Select the "Place Fence" tool.
+
+2. Set the properties to **Fence Type: Block** or **Fence Type: Element** and **Fence Mode: Inside**.
+
+    - The block type lets you place a rectangle shape over an area, while element lets you place a fence within a specified element. Elements that can be used for a fence include closed planar elements (shapes, circles, ellipses, complex shapes, grouped holes). For annotation bubble call outs, you'll need to place a planar element around the bubble to place a fence.
+
+3. Place the fence over the area you want to clip.
+
+4. Right-click the reference file to clip (usually the container file for Plan Sheets).
+
+5. Select **Clip Mask**.
+
+6. Click inside the fence
+
 ## Finding URN address in ProjectWise
 ***
 
@@ -284,6 +301,8 @@ If you can't copy a parallel off of a Toe of Fill line in ORD:
 2. Paste the copied dots directly over the original ones.
 
 3. Select Drop Element ![drop element icon](../assets/images/drop-icon.png)
+
+4. Use the offset tool to create a line from the dropped element, then delete the copied Toe of Fill line.
 
 
 [Help documentation]: https://docs.bentley.com/LiveContent/web/Promis.e%20Help-v10/en/FindReplaceText.html
