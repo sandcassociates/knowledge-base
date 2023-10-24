@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quantities Spreadsheet
+title: Spreadsheet Setup
 parent: Quantities
 nav_order: 1
 ---
@@ -70,47 +70,3 @@ Before you begin, you'll want to set the template up for your project.
     -   With this setting off, empty cells will remain empty instead of displaying a 0.
 
     <img src="../assets/images/no-zeroes.png" width=500 style="margin-left: 1.5rem;">
-
-## Populate the Quantities Template
-***
-
-Once you've completed the design phase of your project (entered seeding, wattle, inlet protection, etc., into the design file), you can start entering the quantities into the Design Quantities sheet.
-
-Enter the bid item quantities in the columns that correspond to the Plan Sheet stations. All your bid items should fit within the stations for the corresponding sheet; bid items shouldn't overflow into other sheets. This helps us get correct quantity measurements for each sheet.
-
-**For non-seeding items:**
-
-1.  Select the item with the Element Selection tool in ORD to see the item's length in the Properties dialog.
-
-    -   Some items don't have length measurements, such as inlet protection.
-
-2.  Enter the measurement in the left-hand column of the corresponding station section in the Design Quantities sheet.
-
-3.  Use the Analyze Point tool in ORD to check an item's stationing and offset measurements.
-
-    -   Some items, like inlet protection, only have one station.
-
-4.  Record each station and offset measurement and enter them into the Design Quantities sheet.
-
-    -   The correct format for stations and offsets looks like:
-
-        ![](../assets/images/station-format.png)
-        {: .ml-5 }
-
-    - If the offset is a negative number in ORD, the offset will be LT (left of the road's centerline)
-    - If the offset is a positive number in ORD, the offset will be RT (right of the road's centerline)
-
-**For seeding shapes:**
-
-1.  Select the seed shape with the Element Selection tool in ORD to see the shape's area in the Properties dialog.
-
-2.  Enter the area measurement under a SHAPE cell at the bottom of the column.
-
-    -   The ACRE and CY fields should populate automatically throughout
-        the Station column.
-
-3.  Use the Analyze Point tool in ORD to check an item's stationing and offset measurements.
-
-    -   Follow the same station and offset format as above.
-
-    -   You'll only need to enter the station and offset measurements once in the Topsoil (6") section; the measurements should auto-populate throughout the rest of the column sections.

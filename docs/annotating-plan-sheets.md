@@ -61,6 +61,31 @@ After you've [added BMPs to the Design] file, you need to annotate your plan she
 
 9. Once you've addressed the PM's comments, you can begin pulling [quantities].
 
+## Adding quantities
+***
+
+After you've completed pulling quantities and entering them into the Quantity spreadsheet, you'll need to transpose the quantities into the plan sheets. 
+
+1. Open the Excel spreadsheet and the first plan sheet.
+
+2. Locate the corresponding Excel column for the stations of the plan sheet. 
+
+3. In the plan sheet, use the **Copy** tool to copy the quantity template from the [boneyard] into the right-hand margin of the sheet: 
+
+    ![](/assets/images/plan-sheet-quantities.png)
+    {: .ml-2 }
+
+4. Double click the quantities text in the plan sheet to open the text editor.
+
+5. Going BMP to BMP, copy the quantities from the Excel spreadsheet into the plan sheet.
+
+    {: .note}
+    Make sure to **right click** > **paste unformatted** when pasting into the plan sheet. If you **ctrl-v** or **right click** > **paste**, the text formatting in ORD will be jumbled.
+
+6. Follow the above steps for the rest of the plan sheets.
+
+7. After you've added the quantities to your plan sheets and you've double-checked your work, you're ready to begin the internal QC review process.
+
 [added BMPs to the Design]: /knowledge-base/docs/design-in-ord
 [boneyard]: /knowledge-base/docs/glossary#boneyard
 [border file]: /knowledge-base/docs/glossary#border-file
@@ -68,3 +93,4 @@ After you've [added BMPs to the Design] file, you need to annotate your plan she
 [Rotate]: /knowledge-base/docs/ord-tips#rotating-elements
 [Print]: /knowledge-base/docs/sheet-printing
 [quantities]: /knowledge-base/docs/quantities
+[boneyard]: /knowledge-base/docs/glossary#boneyard
