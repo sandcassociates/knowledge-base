@@ -223,7 +223,9 @@ But they may look different at times. Check any squares or circles to see if the
 ## Next Steps
 ***
 
-Once you've placed all your BMPs in the Design file, you can begin [adding bubble call outs] to your plan sheets.
+Once you've placed all your BMPs in the Design file, you can begin [annotating] your plan sheets.
+
+You'll also need to [pull the quantities] of your BMPs from the Design file to add to the Quantities spreadsheet. The quantities and their stationing will later be added to your Plan Sheets.
 
 
 [Top of Cut]: /knowledge-base/docs/glossary#top-of-cut
@@ -236,4 +238,5 @@ Once you've placed all your BMPs in the Design file, you can begin [adding bubbl
 [attach it]: /knowledge-base/docs/ord-tips#attaching-reference-files
 [change the level]: /knowledge-base/docs/ord-tips#how-to-view-and-change-the-level-of-an-element
 [centered]:  /knowledge-base/docs/ord-tips#rotating-elements
-[adding bubble call outs] : /knowledge-base/docs/annotating-plan-sheets#adding-bubble-call-outs
+[annotating]: /knowledge-base/docs/annotating-plan-sheets#adding-bubble-call-outs
+[pull the quantities]: /knowledge-base/docs/pulling-quantities
