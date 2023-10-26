@@ -36,8 +36,8 @@ Enter the bid item quantities in the columns that correspond to the Plan Sheet s
     - Wattles and seeding shapes should be measured end to end, while inlet protection will only have a single stationing measurement.
     - You may find it helpful to create a [keyboard shortcut] for Tentative Snaps. This will let you "snap" to your BMP measurement point and keep it there (otherwise the point will move with your cursor). Use the following shortcut label and key-in:
 
-    ![](/assets/images/tentative-snap-shortcut.png)
-    {: .ml-5 }
+        ![](/assets/images/tentative-snap-shortcut.png)
+        {: .ml-5 }
 
 6. Record the station and offset from the Analyze Point Parameters pane:
 
