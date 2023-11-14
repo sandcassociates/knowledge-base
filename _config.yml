@@ -17,6 +17,12 @@ callouts:
     important:
         title: important
         color: red
+    blue:
+        color: blue
+    green:
+        color: green
+    yellow:
+        color: yellow
 mermaid:
   version: "9.1.6"
 

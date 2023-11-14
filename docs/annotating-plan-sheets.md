@@ -84,7 +84,7 @@ After you've completed pulling quantities and entering them into the Quantity sp
 
 6. Follow the above steps for the rest of the plan sheets.
 
-7. After you've added the quantities to your plan sheets and you've double-checked your work, you're ready to begin the internal QC review process.
+7. After you've added the quantities to your plan sheets and you've double-checked your work, you're ready to begin [S&C's internal QC review process].
 
 [added BMPs to the Design]: /knowledge-base/docs/design-in-ord
 [boneyard]: /knowledge-base/docs/glossary#boneyard
@@ -94,3 +94,4 @@ After you've completed pulling quantities and entering them into the Quantity sp
 [Print]: /knowledge-base/docs/sheet-printing
 [quantities]: /knowledge-base/docs/quantities
 [boneyard]: /knowledge-base/docs/glossary#boneyard
+[S&C's internal QC review process]: /knowledge-base/docs/quality-control
