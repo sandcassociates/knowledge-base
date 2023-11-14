@@ -70,7 +70,7 @@ Use the following color-coding system to mark up the Check Print:
 - <span style="color:red">Red</span> is used by the Checker to mark up corrections, changes, and additions.
 - <span style="background-color:#88db88; border-radius:15px; padding: 0 5px">Green highlighter</span> is used by the Updater to indicate that changes to the original document have been made.
 - <span style="color:blue">Blue</span> is used for non-record comments or instructions.
-- <span style="color:red">Red</span> is used by the Back Checker to indicate agreement with a check (✓) or disagreement with an (**X**) next to the Checker's markups.
+- <span style="color:red">Red</span> is used by the Back Checker to indicate agreement with a check (✓) or disagreement with an X next to the Checker's markups.
 
 
 ## Additional references
