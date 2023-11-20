@@ -24,7 +24,9 @@ permalink: /docs/quality-control
 ---
 The following are the roles and responsibilities during the QC process.
 
-### Originator/ Updater/ Designer
+| Role | Responsibility |
+|: ---| : --- |
+| **Originator/ Updater/ Designer** | 
 - Responsible for design completeness, accuracy, adequacy, and inter-discipline coordination.
 - Uploads all QC documents to Dropbox.
 - Cannot rely upon the QC procedure to correct design or calculation deficiencies.
@@ -32,16 +34,16 @@ The following are the roles and responsibilities during the QC process.
 - Reviews the completed plan set to ensure that it satisfies the design intent.
 - The Originator becomes the Engineer of Record for the design if licensed in the state as a Professional Engineer.
 - Cannot function as the Checker.
-- Incorporates all corrections.
+- Incorporates all corrections.|
 
-### Checker
+| **Checker** |
 - Checks work product of the Originator.
 - Must be competent and experienced in the type of element being checked.
-- Cannot function as the Originator.
+- Cannot function as the Originator. |
 
-### Back Checker
+| **Back Checker** |
 - Review corrections by the Updater (Updater is usually the Originator).
-- Depending on the team size, the Back Checker may function as the Checker.
+- Depending on the team size, the Back Checker may function as the Checker. |
 
 ## Design review
 ---
