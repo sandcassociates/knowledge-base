@@ -24,24 +24,11 @@ permalink: /docs/quality-control
 ---
 The following are the roles and responsibilities during the QC process.
 
-### Originator/ Updater/ Designer
-- Responsible for design completeness, accuracy, adequacy, and inter-discipline coordination.
-- Uploads all QC documents to Dropbox.
-- Cannot rely upon the QC procedure to correct design or calculation deficiencies.
-- Presents all calculations in a neat and logical manner to facilitate checking.
-- Reviews the completed plan set to ensure that it satisfies the design intent.
-- The Originator becomes the Engineer of Record for the design if licensed in the state as a Professional Engineer.
-- Cannot function as the Checker.
-- Incorporates all corrections.
-
-### Checker
-- Checks work product of the Originator.
-- Must be competent and experienced in the type of element being checked.
-- Cannot function as the Originator.
-
-### Back Checker
-- Review corrections by the Updater (Updater is usually the Originator).
-- Depending on the team size, the Back Checker may function as the Checker.
+| Role | Responsibility |
+| --- | --- |
+| **Originator/ Updater/ Designer** | ✓ Responsible for design completeness, accuracy, adequacy, and inter-discipline coordination.<br>✓ Uploads all QC documents to Dropbox.<br>✓ Cannot rely upon the QC procedure to correct design or calculation deficiencies.<br>✓ Presents all calculations in a neat and logical manner to facilitate checking.<br>✓ Reviews the completed plan set to ensure that it satisfies the design intent.<br>✓ The Originator becomes the Engineer of Record for the design if licensed in the state as a Professional Engineer.<br>✓ Cannot function as the Checker.<br>✓ Incorporates all corrections.|
+| **Checker** | ✓ Checks work product of the Originator.<br>✓ Must be competent and experienced in the type of element being checked.<br>✓ Cannot function as the Originator. |
+| **Back Checker** | ✓ Review corrections by the Updater (Updater is usually the Originator). <br>✓ Depending on the team size, the Back Checker may function as the Checker. |
 
 ## Design review
 ---
