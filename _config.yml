@@ -1,6 +1,6 @@
 title: S&C Knowledge Base
 description: S&C Associates' Knowledge Base Articles
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 
 url: https://sandcassociates.github.io/knowledge-base/
 
